@@ -66,7 +66,7 @@ Gregory Benton, Marc Finzi, Pavel Izmailov, Andrew Gordon Wilson NeurIPS 2020 [p
 Note: very interesting approch; enfore "soft" invariance via learning over both model parameters and distributions over augmentations
 
 19. **LieTransformer: Equivariant self-attention for Lie Groups**  
-   Michael Hutchinson, Charline Le Lan, Sheheryar Zaidi, Emilien Dupont, Yee Whye Teh, Hyunjik Kim  
+   Michael Hutchinson, Charline Le Lan, Sheheryar Zaidi, Emilien Dupont, Yee Whye Teh, Hyunjik Kim [paper](https://arxiv.org/abs/2012.10885)  
    Note: equivariant self attention to arbitrary Lie groups and their discrete subgroups
 
 ### [Theory](#content)
@@ -93,7 +93,7 @@ Note: very interesting approch; enfore "soft" invariance via learning over both 
   Nadav Dym, Haggai Maron ICLR 2021 [paper](https://arxiv.org/abs/2010.02449),   
   Note: universality for TFN and se3-transformer 
   
-8.   **Universal Equivariant Multilayer Perceptrons**
+8.   **Universal Equivariant Multilayer Perceptrons**  
 Siamak Ravanbakhsh [paper](https://arxiv.org/abs/2002.02912)
 
 ### [Application](#content)
@@ -108,7 +108,7 @@ Siamak Ravanbakhsh [paper](https://arxiv.org/abs/2002.02912)
 5. **SE(3)-Equivariant Graph Neural Networks for Data-Efficient and Accurate Interatomic Potentials**  
 Simon Batzner, Tess E. Smidt, Lixin Sun, Jonathan P. Mailoa, Mordechai Kornbluth, Nicola Molinari, Boris Kozinsky
 6. **Group Equivariant Generative Adversarial Networks**  
-Neel Dey, Antong Chen, Soheil Ghafurian ICLR 2021   
+Neel Dey, Antong Chen, Soheil Ghafurian ICLR 2021  [paper](https://arxiv.org/abs/2005.01683)   
 7. 
 
 ### [Permutation Equivariance](#content)
@@ -116,13 +116,13 @@ Neel Dey, Antong Chen, Soheil Ghafurian ICLR 2021
 There are many paper on this topics. I only added very few of them.
 
 1. **PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation**  
-  Charles R. Qi, Hao Su, Kaichun Mo, Leonidas J. Guibas CVPR 2017  
-2. **Deep Sets**
-Manzil Zaheer, Satwik Kottur, Siamak Ravanbakhsh, Barnabas Poczos, Ruslan Salakhutdinov, Alexander Smola NeurIPS 2017   
+  Charles R. Qi, Hao Su, Kaichun Mo, Leonidas J. Guibas CVPR 2017 [paper](https://arxiv.org/abs/1612.00593) 
+2. **Deep Sets**  
+Manzil Zaheer, Satwik Kottur, Siamak Ravanbakhsh, Barnabas Poczos, Ruslan Salakhutdinov, Alexander Smola NeurIPS 2017   [paper](https://arxiv.org/abs/1703.06114)
 3. **Invariant and Equivariant Graph Networks**  
-  Haggai Maron, Heli Ben-Hamu, Nadav Shamir, Yaron Lipman ICLR 2019 [paper](https://arxiv.org/abs/1812.09902)
+  Haggai Maron, Heli Ben-Hamu, Nadav Shamir, Yaron Lipman ICLR 2019 [paper](https://arxiv.org/abs/1812.09902)  
 4. **Provably Powerful Graph Networks**  
-  Haggai Maron, Heli Ben-Hamu, Hadar Serviansky, Yaron Lipman NeurIPS 2019 [paper](Haggai Maron, Heli Ben-Hamu, Hadar Serviansky, Yaron Lipman)
+  Haggai Maron, Heli Ben-Hamu, Hadar Serviansky, Yaron Lipman NeurIPS 2019 [paper](https://arxiv.org/abs/1905.11136)  
 5. **Universal Invariant and Equivariant Graph Neural Networks**  
   Nicolas Keriven, Gabriel Peyré NeurIPS 2019 [paper](https://papers.nips.cc/paper/2019/hash/ea9268cb43f55d1d12380fb6ea5bf572-Abstract.html)
 6. **On Learning Sets of Symmetric Elements**  
