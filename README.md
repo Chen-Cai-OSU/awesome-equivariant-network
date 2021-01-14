@@ -1,5 +1,7 @@
 # awesome-equivariant-network
-Paper list for equivariant neural network. Feel free to suggest relevant papers in the following format
+Paper list for equivariant neural network. Work-in-progress. 
+
+Feel free to suggest relevant papers in the following format. 
 
 ```
 	**Group Equivariant Convolutional Networks**  
@@ -53,30 +55,33 @@ Note: SO(3) equivariance; zonal filter
 11. **Cormorant: Covariant Molecular Neural Networks**  
 Brandon Anderson, Truong-Son Hy, Risi Kondor NeurIPS 2019 [paper](https://arxiv.org/abs/1906.04015)
 
-12. **SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks**  
+12. **Deep Scale-spaces: Equivariance Over Scale**  
+Daniel Worrall, Max Welling [paper](https://papers.nips.cc/paper/2019/hash/f04cd7399b2b0128970efb6d20b5c551-Abstract.html)
+  
+13. **SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks**  
    Fabian B. Fuchs, Daniel E. Worrall, Volker Fischer, Max Welling NeurIPS 2020  [paper](https://arxiv.org/abs/2006.10503), [blog](https://fabianfuchsml.github.io/se3transformer/)  
    Note: TFN + equivariant self-attention; improved spherical harmonics computation
-   
-13. **Gauge Equivariant Mesh CNNs: Anisotropic convolutions on geometric graphs**  
+
+14. **Gauge Equivariant Mesh CNNs: Anisotropic convolutions on geometric graphs**  
    Pim de Haan, Maurice Weiler, Taco Cohen, Max Welling ICLR 2021 [paper](https://arxiv.org/abs/2003.05425)  
    Note: anisotropic gauge equivariant kernels + message passing  by parallel transporting features over mesh edges
-   
-14. **Lorentz Group Equivariant Neural Network for Particle Physics**  
+
+15. **Lorentz Group Equivariant Neural Network for Particle Physics**  
    Alexander Bogatskiy, Brandon Anderson, Jan T. Offermann, Marwah Roussi, David W. Miller, Risi Kondor ICML 2020 [paper](https://arxiv.org/abs/2006.04780)  
    Note: SO(1, 3) equivariance
-   
-15. **Generalizing Convolutional Neural Networks for Equivariance to Lie Groups on Arbitrary Continuous Data**  
+
+16. **Generalizing Convolutional Neural Networks for Equivariance to Lie Groups on Arbitrary Continuous Data**  
    Marc Finzi, Samuel Stanton, Pavel Izmailov, Andrew Gordon Wilson ICML 2020 [paper](https://arxiv.org/abs/2002.12880)  
    Note: fairly generic architecture; use Monte Carlo sampling to achieve equivariance in expectation; 
-   
-16. **Spin-Weighted Spherical CNNs**  
+
+17. **Spin-Weighted Spherical CNNs**  
    Carlos Esteves, Ameesh Makadia, Kostas Daniilidis NeurIPS 2020 [paper](https://arxiv.org/abs/2006.10731)  
    Note: anisotropic filter for vector field on sphere
-   
-17. **LieTransformer: Equivariant self-attention for Lie Groups**  
+
+18. **LieTransformer: Equivariant self-attention for Lie Groups**  
    Michael Hutchinson, Charline Le Lan, Sheheryar Zaidi, Emilien Dupont, Yee Whye Teh, Hyunjik Kim  
    Note: equivariant self attention to arbitrary Lie groups and their discrete subgroups
-   
+
 ### [Theory](#content)
 
 1. **On the Generalization of Equivariance and Convolution in Neural Networks to the Action of Compact Groups**  
@@ -99,7 +104,10 @@ Brandon Anderson, Truong-Son Hy, Risi Kondor NeurIPS 2019 [paper](https://arxiv.
   
 7. **On the Universality of Rotation Equivariant Point Cloud Networks**  
   *Nadav Dym, Haggai Maron* ICLR 2021 [paper](https://arxiv.org/abs/2010.02449),   
-  Note: universality for TFN and se3-transformer
+  Note: universality for TFN and se3-transformer 
+  
+8.   **Universal Equivariant Multilayer Perceptrons**
+Siamak Ravanbakhsh [paper](https://arxiv.org/abs/2002.02912)
 
 ### [Application](#content)
 1. **Trajectory Prediction using Equivariant Continuous Convolution**  
