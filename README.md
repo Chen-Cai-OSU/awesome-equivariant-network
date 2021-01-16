@@ -126,11 +126,10 @@ Siamak Ravanbakhsh [paper](https://arxiv.org/abs/2002.02912)
   Simon Batzner, Tess E. Smidt, Lixin Sun, Jonathan P. Mailoa, Mordechai Kornbluth, Nicola Molinari, Boris Kozinsky [paper](https://arxiv.org/abs/2101.03164)
 4. **Finding Symmetry Breaking Order Parameters with Euclidean Neural Networks**  
   Tess E. Smidt, Mario Geiger, Benjamin Kurt Miller [paper](https://arxiv.org/abs/2007.02005)
-5. **SE(3)-Equivariant Graph Neural Networks for Data-Efficient and Accurate Interatomic Potentials**  
-Simon Batzner, Tess E. Smidt, Lixin Sun, Jonathan P. Mailoa, Mordechai Kornbluth, Nicola Molinari, Boris Kozinsky
-6. **Group Equivariant Generative Adversarial Networks**  
+5. **Group Equivariant Generative Adversarial Networks**  
 Neel Dey, Antong Chen, Soheil Ghafurian ICLR 2021  [paper](https://arxiv.org/abs/2005.01683)   
-7. 
+7. **Ab-Initio Solution of the Many-Electron Schrödinger Equation with Deep Neural Networks**  
+David Pfau, James S. Spencer, Alexander G. de G. Matthews, W. M. C. Foulkes [paper](https://arxiv.org/abs/1909.02487)  
 
 ### [Permutation Equivariance](#content)
 
@@ -167,8 +166,12 @@ IPAM: [Risi Kondor: "Fourier space neural networks" ](https://www.youtube.com/wa
 [NeurIPS 2020 tutorial: Equivariant Networks](https://nips.cc/virtual/2020/public/tutorial_3e267ff3c8b6621e5ad4d0f26142892b.html)
 
 
-### [TODO](#content)
+### [TO READ](#content)
+There are many paper I haven't read carefully yet. 
 
-**Making Convolutional Networks Shift-Invariant Again**   
-Richard Zhang ICML 2019 [paper](https://arxiv.org/abs/1904.11486)
-
+1. **Making Convolutional Networks Shift-Invariant Again**   
+  Richard Zhang ICML 2019 [paper](https://arxiv.org/abs/1904.11486)
+2. **Probabilistic symmetries and invariant neural networks**  
+Benjamin Bloem-Reddy, Yee Whye Teh JMLR [paper](https://arxiv.org/abs/1901.06082)
+3. **On Representing (Anti)Symmetric Functions**  
+Marcus Hutter [paper](https://arxiv.org/abs/2007.15298)
