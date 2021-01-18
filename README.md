@@ -140,6 +140,9 @@ Siamak Ravanbakhsh [paper](https://arxiv.org/abs/2002.02912)
 7. **Targeted free energy estimation via learned mappings**
   Peter Wirnsberger, Andrew J. Ballard, George Papamakarios, Stuart Abercrombie, Sébastien Racanière, Alexander Pritzel, Danilo Jimenez Rezende, Charles Blundell J Chem Phys. 2020 Oct 14;153(14):144112. [paper](https://arxiv.org/abs/2002.04913)
   Note: normalizing flows for particle systems on a torus. Instantiation for permutation equivariance.
+8. **Temperature-steerable flows**
+  Manuel Dibak, Leon Klein, Frank Noé NeurIPS 2020 ML4Phys workshops [paper](https://arxiv.org/abs/2012.00429)
+  Note: normalizing flows in phase space with equivariance with respect to changes in temperature.
 
 ### [Application](#content)
 1. **Trajectory Prediction using Equivariant Continuous Convolution**  
