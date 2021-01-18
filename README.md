@@ -8,7 +8,7 @@ Feel free to suggest relevant papers in the following format.
    Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pdf)   
 ```
 
-
+*Acknowledgement*: I would like to thank Maurice Weiler, Fabian Fuchs, Tess Smidt, David Pfau, Jonas Köhler for paper suggestions!
 
 [toc]
 
