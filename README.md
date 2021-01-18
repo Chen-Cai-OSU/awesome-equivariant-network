@@ -73,6 +73,8 @@ Feel free to suggest relevant papers in the following format.
 21. **LieTransformer: Equivariant self-attention for Lie Groups**  
    Michael Hutchinson, Charline Le Lan, Sheheryar Zaidi, Emilien Dupont, Yee Whye Teh, Hyunjik Kim [paper](https://arxiv.org/abs/2012.10885)  
    Note: equivariant self attention to arbitrary Lie groups and their discrete subgroups
+22. **Group Equivariant Stand-Alone Self-Attention For Vision**
+   David W. Romero, Jean-Baptiste Cordonnier ICLR 2021 [paper](https://arxiv.org/abs/2010.00977)
 
 ### [Theory](#content)
 
