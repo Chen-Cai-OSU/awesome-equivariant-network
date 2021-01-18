@@ -74,11 +74,11 @@ Feel free to suggest relevant papers in the following format.
    Michael Hutchinson, Charline Le Lan, Sheheryar Zaidi, Emilien Dupont, Yee Whye Teh, Hyunjik Kim [paper](https://arxiv.org/abs/2012.10885)  
    Note: equivariant self attention to arbitrary Lie groups and their discrete subgroups
    
-22. **Co-Attentive Equivariant Neural Networks: Focusing Equivariance On Transformations Co-Occurring In Data**
+22. **Co-Attentive Equivariant Neural Networks: Focusing Equivariance On Transformations Co-Occurring In Data**  
    David W. Romero, Mark Hoogendoorn ICLR 2020 [paper](https://arxiv.org/abs/1911.07849)
-23. **Attentive Group Equivariant Convolutional Networks**
+23. **Attentive Group Equivariant Convolutional Networks**  
    David W. Romero, Erik J. Bekkers, Jakub M. Tomczak, Mark Hoogendoorn ICML 2020 [paper](https://arxiv.org/abs/2002.03830)
-24. **Wavelet Networks: Scale Equivariant Learning From Raw Waveforms**
+24. **Wavelet Networks: Scale Equivariant Learning From Raw Waveforms**  
    David W. Romero, Erik J. Bekkers, Jakub M. Tomczak, Mark Hoogendoorn [paper](https://arxiv.org/abs/2006.05259)
 
 ### [Theory](#content)
