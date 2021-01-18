@@ -120,28 +120,28 @@ Siamak Ravanbakhsh [paper](https://arxiv.org/abs/2002.02912)
 ### [Equivariant Density Estimation / Sampling](#content)
 
 1. **Equivariant Flows: Exact Likelihood Generative Learning for Symmetric Densities**
-  Jonas Köhler, Leon Klein, Frank Noé ICML 2020 [paper](https://arxiv.org/abs/2006.02425)
+  Jonas Köhler, Leon Klein, Frank Noé ICML 2020 [paper](https://arxiv.org/abs/2006.02425)  
   Note: general framework for constructing equivariant normalizing flows on euclidean spaces. Instantiation for particle systems/point clouds = simultanoues SE(3) and permutation equivariance.
 2. **Equivariant Hamiltonian Flows**
-  Danilo Jimenez Rezende, Sébastien Racanière, Irina Higgins, Peter Toth NeurIPS 2019 ML4Phys workshop [paper](https://arxiv.org/abs/1909.13739)
+  Danilo Jimenez Rezende, Sébastien Racanière, Irina Higgins, Peter Toth NeurIPS 2019 ML4Phys workshop [paper](https://arxiv.org/abs/1909.13739)  
   Note: general framework for constructing equivariant normalizing flows in phase space utilizing Hamiltonian dynamics. Instantiation for SE(2) equivariance.
 3. **Sampling using SU(N) gauge equivariant flows**
-  Denis Boyda, Gurtej Kanwar, Sébastien Racanière, Danilo Jimenez Rezende, Michael S. Albergo, Kyle Cranmer, Daniel C. Hackett, Phiala E. Shanahan
+  Denis Boyda, Gurtej Kanwar, Sébastien Racanière, Danilo Jimenez Rezende, Michael S. Albergo, Kyle Cranmer, Daniel C. Hackett, Phiala E. Shanahan [paper](https://arxiv.org/abs/2008.05456)    
   Note: normalizing flows for lattice gauge theory. Instantiation for SU(2)/SU(3) equivariance.
 4. **Exchangeable neural ode for set modeling**
-  Yang Li, Haidong Yi, Christopher M. Bender, Siyuan Shan, Junier B. Oliva NeurIPS 2020 [paper](https://arxiv.org/abs/2008.02676)
+  Yang Li, Haidong Yi, Christopher M. Bender, Siyuan Shan, Junier B. Oliva NeurIPS 2020 [paper](https://arxiv.org/abs/2008.02676)  
   Note: framework for permutation equivariant flows for set data. Instantiation for permutation equivariance.
 5. **Equivariant Normalizing Flows for Point Processes and Sets**
-  Marin Biloš, Stephan Günnemann NeurIPS 2020 [paper](https://arxiv.org/abs/2010.03242)
+  Marin Biloš, Stephan Günnemann NeurIPS 2020 [paper](https://arxiv.org/abs/2010.03242)  
   Note: framework for permutation equivariant flows for set data.  Instantiation for permutation equivariance.
 6. **The Convolution Exponential and Generalized Sylvester Flows**
-  Emiel Hoogeboom, Victor Garcia Satorras, Jakub M. Tomczak, Max Welling NeurIPS 2020 [paper](https://arxiv.org/abs/2006.01910)
+  Emiel Hoogeboom, Victor Garcia Satorras, Jakub M. Tomczak, Max Welling NeurIPS 2020 [paper](https://arxiv.org/abs/2006.01910)  
   Note: invertible convolution operators. Instantiation for permutation equivariance.
 7. **Targeted free energy estimation via learned mappings**
-  Peter Wirnsberger, Andrew J. Ballard, George Papamakarios, Stuart Abercrombie, Sébastien Racanière, Alexander Pritzel, Danilo Jimenez Rezende, Charles Blundell J Chem Phys. 2020 Oct 14;153(14):144112. [paper](https://arxiv.org/abs/2002.04913)
+  Peter Wirnsberger, Andrew J. Ballard, George Papamakarios, Stuart Abercrombie, Sébastien Racanière, Alexander Pritzel, Danilo Jimenez Rezende, Charles Blundell J Chem Phys. 2020 Oct 14;153(14):144112. [paper](https://arxiv.org/abs/2002.04913)  
   Note: normalizing flows for particle systems on a torus. Instantiation for permutation equivariance.
 8. **Temperature-steerable flows**
-  Manuel Dibak, Leon Klein, Frank Noé NeurIPS 2020 ML4Phys workshops [paper](https://arxiv.org/abs/2012.00429)
+  Manuel Dibak, Leon Klein, Frank Noé NeurIPS 2020 ML4Phys workshops [paper](https://arxiv.org/abs/2012.00429)  
   Note: normalizing flows in phase space with equivariance with respect to changes in temperature.
 
 ### [Application](#content)
