@@ -13,15 +13,15 @@ Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pd
 *Acknowledgement*: I would like to thank Maurice Weiler, Fabian Fuchs, Tess Smidt, Rui Wang, David Pfau, Jonas Köhler, Taco Cohen  for paper suggestions!
 
 ### Table of Contents
-- [Equivariance & Group convolution](#Equivariance & Group convolution)
+- [Equivariance and Group convolution](#Equivariance-and-Group convolution)
 - [Theory](#theory)
 - [Equivariant Density Estimation / Sampling](equivariant-density-estimation-sampling)
 - [Application](#application)
 - [Permutation Equivariance](#permutation-equivariance)
-- [Talk & Tutorial](#talk---tutorial)
+- [Talk and Tutorial](#talk-and-tutorial)
 - [TO READ](#to-read)
 
-### [Equivariance & Group convolution](#content)
+### [Equivariance and Group convolution](#content)
 
 1. **Group Equivariant Convolutional Networks**  
    Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pdf)   
@@ -179,7 +179,7 @@ Manzil Zaheer, Satwik Kottur, Siamak Ravanbakhsh, Barnabas Poczos, Ruslan Salakh
   Haggai Maron, Ethan Fetaya, Nimrod Segol, Yaron Lipman [paper](https://arxiv.org/abs/1901.09342)
 
 
-### [Talk & Tutorial](#content)
+### [Talk and Tutorial](#content)
 
 IAS: [Graph Nets: The Next Generation - Max Welling - YouTube](https://www.youtube.com/watch?v=Wx8J-Kw3fTA&t=3602s)
 
