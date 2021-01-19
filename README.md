@@ -1,5 +1,4 @@
 # awesome-equivariant-network
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Paper list for equivariant neural network. Work-in-progress. 
 
@@ -10,7 +9,7 @@ Feel free to suggest relevant papers in the following format.
 Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pdf)   
 ```
 
-*Acknowledgement*: I would like to thank Maurice Weiler, Fabian Fuchs, Tess Smidt, Rui Wang, David Pfau, Jonas Köhler, Taco Cohen, Gregor Simm  for paper suggestions!
+*Acknowledgement*: I would like to thank Maurice Weiler, Fabian Fuchs, Tess Smidt, Rui Wang, David Pfau, Jonas Köhler, Taco Cohen, Gregor Simm, Erik J Bekkers, Jean-Baptiste Cordonnier, David W. Romero, Ivan Sosnovik for paper suggestions! Thank Weihao Xia for helping out typesetting! 
 
 ### Table of Contents
 - [Equivariance and Group convolution](#equivariance-and-Group-convolution)
