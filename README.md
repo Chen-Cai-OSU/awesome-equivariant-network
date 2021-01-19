@@ -10,12 +10,12 @@ Feel free to suggest relevant papers in the following format.
 Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pdf)   
 ```
 
-*Acknowledgement*: I would like to thank Maurice Weiler, Fabian Fuchs, Tess Smidt, Rui Wang, David Pfau, Jonas Köhler, Taco Cohen  for paper suggestions!
+*Acknowledgement*: I would like to thank Maurice Weiler, Fabian Fuchs, Tess Smidt, Rui Wang, David Pfau, Jonas Köhler, Taco Cohen, Gregor Simm  for paper suggestions!
 
 ### Table of Contents
 - [Equivariance and Group convolution](#equivariance-and-Group-convolution)
 - [Theory](#theory)
-- [Equivariant Density Estimation / Sampling](equivariant-density-estimation-sampling)
+- [Equivariant Density Estimation and Sampling](equivariant-density-estimation-and-sampling)
 - [Application](#application)
 - [Permutation Equivariance](#permutation-equivariance)
 - [Talk and Tutorial](#talk-and-tutorial)
@@ -116,7 +116,7 @@ Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pd
 8.   **Universal Equivariant Multilayer Perceptrons**  
 Siamak Ravanbakhsh [paper](https://arxiv.org/abs/2002.02912)
 
-### [Equivariant Density Estimation / Sampling](#content)
+### [Equivariant Density Estimation and Sampling](#content)
 
 1. **Equivariant Flows: Exact Likelihood Generative Learning for Symmetric Densities**    
   Jonas Köhler, Leon Klein, Frank Noé ICML 2020 [paper](https://arxiv.org/abs/2006.02425)  
