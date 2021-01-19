@@ -139,8 +139,10 @@ Siamak Ravanbakhsh [paper](https://arxiv.org/abs/2002.02912)
   Tess E. Smidt, Mario Geiger, Benjamin Kurt Miller [paper](https://arxiv.org/abs/2007.02005)
 5. **Group Equivariant Generative Adversarial Networks**  
 Neel Dey, Antong Chen, Soheil Ghafurian ICLR 2021  [paper](https://arxiv.org/abs/2005.01683)   
-7. **Ab-Initio Solution of the Many-Electron Schrödinger Equation with Deep Neural Networks**  
-David Pfau, James S. Spencer, Alexander G. de G. Matthews, W. M. C. Foulkes [paper](https://arxiv.org/abs/1909.02487)  
+6. **Ab-Initio Solution of the Many-Electron Schrödinger Equation with Deep Neural Networks**    
+David Pfau, James S. Spencer, Alexander G. de G. Matthews, W. M. C. Foulkes [paper](https://arxiv.org/abs/1909.02487)
+7. **Symmetry-Aware Actor-Critic for 3D Molecular Design**    
+Gregor N. C. Simm, Robert Pinsler, Gábor Csányi, José Miguel Hernández-Lobato ICLR 2021 [paper](https://arxiv.org/abs/2011.12747)
 
 ### [Permutation Equivariance](#content)
 
