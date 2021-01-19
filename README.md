@@ -35,8 +35,6 @@ Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pd
 5. **Clebsch–Gordan Nets: a Fully Fourier Space Spherical Convolutional Neural Network**  
   Risi Kondor, Zhen Lin, Shubhendu Trivedi NeurIPS 2018 [paper](https://arxiv.org/abs/1806.09231)  
   Note: perform equivariant nonlinearity in Fourier space; 
-6. **Roto-translation covariant convolutional networks for medical image analysis**  
-  Erik J. Bekkers, Maxime W. Lafarge, Mitko Veta, Koen A.J. Eppenhof, Josien P.W. Pluim, Remco Duits MICCAI 2018 Young Scientist Award [paper](https://arxiv.org/abs/1804.03393)
 6. **General E(2)-Equivariant Steerable CNNs**  
   Maurice Weiler, Gabriele Cesa NeurIPS 2019 [paper](https://arxiv.org/abs/1911.08251)  
   Note: nice benchmark on different reprsentations
@@ -164,13 +162,19 @@ Siamak Ravanbakhsh [paper](https://arxiv.org/abs/2002.02912)
 4. **Finding Symmetry Breaking Order Parameters with Euclidean Neural Networks**  
   Tess E. Smidt, Mario Geiger, Benjamin Kurt Miller [paper](https://arxiv.org/abs/2007.02005)
 5. **Group Equivariant Generative Adversarial Networks**  
-Neel Dey, Antong Chen, Soheil Ghafurian ICLR 2021  [paper](https://arxiv.org/abs/2005.01683)   
-7. **Ab-Initio Solution of the Many-Electron Schrödinger Equation with Deep Neural Networks**  
-David Pfau, James S. Spencer, Alexander G. de G. Matthews, W. M. C. Foulkes [paper](https://arxiv.org/abs/1909.02487)  
+  Neel Dey, Antong Chen, Soheil Ghafurian ICLR 2021  [paper](https://arxiv.org/abs/2005.01683)   
+6. **Ab-Initio Solution of the Many-Electron Schrödinger Equation with Deep Neural Networks**  
+  David Pfau, James S. Spencer, Alexander G. de G. Matthews, W. M. C. Foulkes [paper](https://arxiv.org/abs/1909.02487)  
 8. **Roto-translation equivariant convolutional networks: Application to histopathology image analysis**  
   Maxime W. Lafarge, Erik J. Bekkers, Josien P.W. Pluim, Remco Duits, Mitko Veta MedIA [paper](https://arxiv.org/abs/2002.08725)
-9. **Scale Equivariance Improves Siamese Tracking**  
-Ivan Sosnovik\*, Artem Moskalev\*, Arnold Smeulders WACV 2021 [paper](https://arxiv.org/abs/2007.09115)
+8. **Scale Equivariance Improves Siamese Tracking**  
+  Ivan Sosnovik\*, Artem Moskalev\*, Arnold Smeulders WACV 2021 [paper](https://arxiv.org/abs/2007.09115)
+9. **3D G-CNNs for Pulmonary Nodule Detection**
+  Marysia Winkels, Taco S. Cohen [paper](https://arxiv.org/abs/1804.04656) 
+  International Conference on Medical Imaging with Deep Learning (MIDL), 2018.
+6. **Roto-translation covariant convolutional networks for medical image analysis**  
+  Erik J. Bekkers, Maxime W. Lafarge, Mitko Veta, Koen A.J. Eppenhof, Josien P.W. Pluim, Remco Duits MICCAI 2018 Young Scientist Award [paper](https://arxiv.org/abs/1804.03393)
+
 
 ### [Permutation Equivariance](#content)
 
