@@ -49,9 +49,9 @@ Feel free to suggest relevant papers in the following format.
    Brandon Anderson, Truong-Son Hy, Risi Kondor NeurIPS 2019 [paper](https://arxiv.org/abs/1906.04015)
 13. **Deep Scale-spaces: Equivariance Over Scale**  
    Daniel Worrall, Max Welling NeurIPS 2019 [paper](https://papers.nips.cc/paper/2019/hash/f04cd7399b2b0128970efb6d20b5c551-Abstract.html)
-14. **Scale-Equivariant Steerable Networks**
+14. **Scale-Equivariant Steerable Networks**  
    Ivan Sosnovik, Michał Szmaja, Arnold Smeulders ICLR 2020 [paper](https://openreview.net/forum?id=HJgpugrKPS)
-15. **B-Spline CNNs on Lie Groups**
+15. **B-Spline CNNs on Lie Groups**  
    Erik J Bekkers ICLR 2020 [paper](https://openreview.net/forum?id=H1gBhkBFDH)    
 16. **SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks**  
    Fabian B. Fuchs, Daniel E. Worrall, Volker Fischer, Max Welling NeurIPS 2020  [paper](https://arxiv.org/abs/2006.10503), [blog](https://fabianfuchsml.github.io/se3transformer/)  
@@ -145,8 +145,8 @@ Siamak Ravanbakhsh [paper](https://arxiv.org/abs/2002.02912)
 Neel Dey, Antong Chen, Soheil Ghafurian ICLR 2021  [paper](https://arxiv.org/abs/2005.01683)   
 7. **Ab-Initio Solution of the Many-Electron Schrödinger Equation with Deep Neural Networks**  
 David Pfau, James S. Spencer, Alexander G. de G. Matthews, W. M. C. Foulkes [paper](https://arxiv.org/abs/1909.02487)  
-8. **Scale Equivariance Improves Siamese Tracking**
-Ivan^* Sosnovik, Artem Moskalev^*, Arnold Smeulders WACV 2021 [paper](https://arxiv.org/abs/2007.09115)
+8. **Scale Equivariance Improves Siamese Tracking**  
+Ivan Sosnovik\*, Artem Moskalev\*, Arnold Smeulders WACV 2021 [paper](https://arxiv.org/abs/2007.09115)
 
 ### [Permutation Equivariance](#content)
 
