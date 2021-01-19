@@ -36,6 +36,8 @@ Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pd
 5. **Clebsch–Gordan Nets: a Fully Fourier Space Spherical Convolutional Neural Network**  
   Risi Kondor, Zhen Lin, Shubhendu Trivedi NeurIPS 2018 [paper](https://arxiv.org/abs/1806.09231)  
   Note: perform equivariant nonlinearity in Fourier space; 
+6. **Roto-translation covariant convolutional networks for medical image analysis**  
+  Erik J. Bekkers, Maxime W. Lafarge, Mitko Veta, Koen A.J. Eppenhof, Josien P.W. Pluim, Remco Duits MICCAI 2018 Young Scientist Award [paper](https://arxiv.org/abs/1804.03393)
 6. **General E(2)-Equivariant Steerable CNNs**  
   Maurice Weiler, Gabriele Cesa NeurIPS 2019 [paper](https://arxiv.org/abs/1911.08251)  
   Note: nice benchmark on different reprsentations
@@ -122,6 +124,9 @@ Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pd
 8.   **Universal Equivariant Multilayer Perceptrons**  
 Siamak Ravanbakhsh [paper](https://arxiv.org/abs/2002.02912)
 
+9. **PDE-based Group Equivariant Convolutional Neural Networks**  
+  Bart M.N. Smets, Jim Portegies, Erik J. Bekkers, Remco Duits [paper](https://arxiv.org/abs/2001.09046)
+
 ### [Equivariant Density Estimation / Sampling](#content)
 
 1. **Equivariant Flows: Exact Likelihood Generative Learning for Symmetric Densities**    
@@ -149,6 +154,7 @@ Siamak Ravanbakhsh [paper](https://arxiv.org/abs/2002.02912)
   Manuel Dibak, Leon Klein, Frank Noé NeurIPS 2020 ML4Phys workshops [paper](https://arxiv.org/abs/2012.00429)  
   Note: normalizing flows in phase space with equivariance with respect to changes in temperature.
 
+
 ### [Application](#content)
 1. **Trajectory Prediction using Equivariant Continuous Convolution**  
   Robin Walters, Jinxi Li, Rose Yu ICLR 2021 [paper](https://arxiv.org/abs/2010.11344)
@@ -162,7 +168,9 @@ Siamak Ravanbakhsh [paper](https://arxiv.org/abs/2002.02912)
 Neel Dey, Antong Chen, Soheil Ghafurian ICLR 2021  [paper](https://arxiv.org/abs/2005.01683)   
 7. **Ab-Initio Solution of the Many-Electron Schrödinger Equation with Deep Neural Networks**  
 David Pfau, James S. Spencer, Alexander G. de G. Matthews, W. M. C. Foulkes [paper](https://arxiv.org/abs/1909.02487)  
-8. **Scale Equivariance Improves Siamese Tracking**  
+8. **Roto-translation equivariant convolutional networks: Application to histopathology image analysis**  
+  Maxime W. Lafarge, Erik J. Bekkers, Josien P.W. Pluim, Remco Duits, Mitko Veta MedIA [paper](https://arxiv.org/abs/2002.08725)
+9. **Scale Equivariance Improves Siamese Tracking**  
 Ivan Sosnovik\*, Artem Moskalev\*, Arnold Smeulders WACV 2021 [paper](https://arxiv.org/abs/2007.09115)
 
 ### [Permutation Equivariance](#content)
@@ -201,7 +209,7 @@ IPAM: [Risi Kondor: "Fourier space neural networks" ](https://www.youtube.com/wa
 
 [Yaron Lipman - Deep Learning of Irregular and Geometric Data - YouTube](https://www.youtube.com/watch?v=fveyx5zKReo&feature=youtu.be)
 
-
+Math-ML: [Erik J Bekkers: Group Equivariant CNNs beyond Roto-Translations: B-Spline CNNs on Lie Groups](https://youtu.be/rakcnrgX4oo)
 
 ### [Background](#content)
 I am by no means an expert in this field. Here are books and articles suggest by Taco Cohen when asked references to learn group theory and representation theory.
