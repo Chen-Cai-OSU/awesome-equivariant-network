@@ -10,16 +10,16 @@ Feel free to suggest relevant papers in the following format.
 Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pdf)   
 ```
 
-*Acknowledgement*: I would like to thank Maurice Weiler, Fabian Fuchs, Tess Smidt, Rui Wang, David Pfau, Jonas Köhler for paper suggestions!
+*Acknowledgement*: I would like to thank Maurice Weiler, Fabian Fuchs, Tess Smidt, Rui Wang, David Pfau, Jonas Köhler, Taco Cohen  for paper suggestions!
 
 ### Table of Contents
-- [[Equivariance & Group convolution](#content)](#-equivariance---group-convolution---content-)
-- [[Theory](#content)](#-theory---content-)
-- [[Equivariant Density Estimation / Sampling](#content)](#-equivariant-density-estimation---sampling---content-)
-- [[Application](#content)](#-application---content-)
-- [[Permutation Equivariance](#content)](#-permutation-equivariance---content-)
-- [[Talk & Tutorial](#content)](#-talk---tutorial---content-)
-- [[TO READ](#content)](#-to-read---content-)
+- [Equivariance & Group convolution](#equivariance---group-convolution)
+- [Theory](#theory)
+- [Equivariant Density Estimation / Sampling](equivariant-density-estimation-sampling)
+- [Application](#application)
+- [Permutation Equivariance](permutation-equivariance)
+- [Talk & Tutorial](#talk---tutorial)
+- [TO READ](#to-read)
 
 ### [Equivariance & Group convolution](#content)
 
