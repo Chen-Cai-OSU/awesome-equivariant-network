@@ -13,7 +13,7 @@ Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pd
 *Acknowledgement*: I would like to thank Maurice Weiler, Fabian Fuchs, Tess Smidt, Rui Wang, David Pfau, Jonas Köhler, Taco Cohen  for paper suggestions!
 
 ### Table of Contents
-- [Equivariance and Group convolution](#Equivariance-and-Group convolution)
+- [Equivariance and Group convolution](#equivariance-and-Group convolution)
 - [Theory](#theory)
 - [Equivariant Density Estimation / Sampling](equivariant-density-estimation-sampling)
 - [Application](#application)
