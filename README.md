@@ -8,7 +8,7 @@ Feel free to suggest relevant papers in the following format.
    Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pdf)   
 ```
 
-*Acknowledgement*: I would like to thank Maurice Weiler, Fabian Fuchs, Tess Smidt, David Pfau, Jonas Köhler for paper suggestions!
+*Acknowledgement*: I would like to thank Maurice Weiler, Fabian Fuchs, Tess Smidt, Rui Wang, David Pfau, Jonas Köhler for paper suggestions!
 
 [toc]
 
@@ -43,7 +43,7 @@ Feel free to suggest relevant papers in the following format.
   Nathaniel Thomas, Tess Smidt, Steven Kearnes, Lusann Yang, Li Li, Kai Kohlhoff, Patrick Riley  [paper](https://arxiv.org/abs/1802.08219)  
   Note: SE(3) equivariance for point clouds
 11. **Gauge Equivariant Convolutional Networks and the Icosahedral CNN**  
-   Taco S. Cohen, Maurice Weiler, Berkay Kicanaoglu, Max Welling ICML 2019 [paper](https://arxiv.org/abs/1902.04615)  
+   Taco S. Cohen, Maurice Weiler, Berkay Kicanaoglu, Max Welling ICML 2019 [paper](https://arxiv.org/abs/1902.04615), [talk](https://slideslive.com/38915809/gauge-equivariant-convolutional-networks?locale=de)  
    Note: gauge equivariance on general manifold
 12. **Cormorant: Covariant Molecular Neural Networks**  
    Brandon Anderson, Truong-Son Hy, Risi Kondor NeurIPS 2019 [paper](https://arxiv.org/abs/1906.04015)
@@ -177,6 +177,29 @@ IPAM: [Risi Kondor: "Fourier space neural networks" ](https://www.youtube.com/wa
 [NeurIPS 2020 tutorial: Equivariant Networks](https://nips.cc/virtual/2020/public/tutorial_3e267ff3c8b6621e5ad4d0f26142892b.html)
 
 [Yaron Lipman - Deep Learning of Irregular and Geometric Data - YouTube](https://www.youtube.com/watch?v=fveyx5zKReo&feature=youtu.be)
+
+
+
+### [Background](#content)
+I am by no means an expert in this field. Here are books and articles suggest by Taco Cohen when asked references to learn group theory and representation theory.
+
+1. [Carter, Visual Group Theory](https://www.amazon.com/Visual-Group-Theory-Problem-Book/dp/088385757X)   
+  Note: very basic intro to group theory
+
+2. [Theoretical Aspects of Group Equivariant Neural Networks](https://arxiv.org/abs/2004.05154)  
+Carlos Esteves  
+Note: covers all the math you need for equivariant nets in a fairly compact and accessible manner.
+
+3. [Serre, Linear Representations of Finite Groups](http://www.math.tau.ac.il/~borovoi/courses/ReprFG/Hatzagot.pdf)   
+Note: classic text on representations of finite groups. First few chapters are relevant to equivariant nets.
+
+4. [G B Folland. A Course in Abstract Harmonic Analysis](https://sv.20file.org/up1/1415_0.pdf)   
+Note: covers representations of locally compact groups; induced representations.
+
+5. [David Gurarie. Symmetries and Laplacians: Introduction to Harmonic Analysis, Group Representations and Applications.](https://www.amazon.com/Symmetries-Laplacians-Introduction-Representations-Applications/dp/0486462889)  
+
+6. [Mark Hamilton. Mathematical Gauge Theory: With Applications to the Standard Model of Particle Physics](https://www.amazon.com/Mathematical-Gauge-Theory-Applications-Universitext/dp/3319684388)   
+Note: covers fiber bundles, useful for understanding homogeneous G-CNNs and Gauge CNNs.
 
 
 
