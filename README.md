@@ -165,6 +165,8 @@ Siamak Ravanbakhsh [paper](https://arxiv.org/abs/2002.02912)
   Neel Dey, Antong Chen, Soheil Ghafurian ICLR 2021  [paper](https://arxiv.org/abs/2005.01683)   
 6. **Ab-Initio Solution of the Many-Electron Schrödinger Equation with Deep Neural Networks**  
   David Pfau, James S. Spencer, Alexander G. de G. Matthews, W. M. C. Foulkes [paper](https://arxiv.org/abs/1909.02487)  
+7. **Symmetry-Aware Actor-Critic for 3D Molecular Design**    
+  Gregor N. C. Simm, Robert Pinsler, Gábor Csányi, José Miguel Hernández-Lobato ICLR 2021 [paper](https://arxiv.org/abs/2011.12747)
 8. **Roto-translation equivariant convolutional networks: Application to histopathology image analysis**  
   Maxime W. Lafarge, Erik J. Bekkers, Josien P.W. Pluim, Remco Duits, Mitko Veta MedIA [paper](https://arxiv.org/abs/2002.08725)
 8. **Scale Equivariance Improves Siamese Tracking**  
