@@ -93,7 +93,8 @@ Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pd
    David W. Romero, Erik J. Bekkers, Jakub M. Tomczak, Mark Hoogendoorn [paper](https://arxiv.org/abs/2006.05259)
 27. **Group Equivariant Stand-Alone Self-Attention For Vision**
    David W. Romero, Jean-Baptiste Cordonnier ICLR 2021 [paper](https://arxiv.org/abs/2010.00977)
-   
+28. **MDP Homomorphic Networks: Group Symmetries in Reinforcement Learning**  
+   Elise van der Pol, Daniel E. Worrall, Herke van Hoof, Frans A. Oliehoek, Max Welling NeurIPS 2020 [paper](https://arxiv.org/abs/2006.16908)
 
 ### [Theory](#content)
 
