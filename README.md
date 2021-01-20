@@ -93,7 +93,8 @@ Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pd
    David W. Romero, Erik J. Bekkers, Jakub M. Tomczak, Mark Hoogendoorn [paper](https://arxiv.org/abs/2006.05259)
 27. **Group Equivariant Stand-Alone Self-Attention For Vision**
    David W. Romero, Jean-Baptiste Cordonnier ICLR 2021 [paper](https://arxiv.org/abs/2010.00977)
-   
+28. **Isometric Transformation Invariant and Equivariant Graph Convolutional Networks**
+  Masanobu Horie, Naoki Morita, Toshiaki Hishinuma, Yu Ihara, Naoto Mitsume ICLR 2021 [paper](https://arxiv.org/abs/2005.06316)
 
 ### [Theory](#content)
 
