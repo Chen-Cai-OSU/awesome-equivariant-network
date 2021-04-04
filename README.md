@@ -129,7 +129,7 @@ Carlos Esteves, Christine Allen-Blanchette, Xiaowei Zhou, Kostas Daniilidis ICLR
 8. **Universal Equivariant Multilayer Perceptrons**  
 Siamak Ravanbakhsh [paper](https://arxiv.org/abs/2002.02912)
 
-9. **Provably Strict Generalisation Benefit for Equivariant Models**
+9. **Provably Strict Generalisation Benefit for Equivariant Models**  
   Bryn Elesedy, Sheheryar Zaidi [paper](https://arxiv.org/abs/2102.10333)
 
 
@@ -185,9 +185,9 @@ Siamak Ravanbakhsh [paper](https://arxiv.org/abs/2002.02912)
   International Conference on Medical Imaging with Deep Learning (MIDL), 2018.
 11. **Roto-translation covariant convolutional networks for medical image analysis**  
   Erik J. Bekkers, Maxime W. Lafarge, Mitko Veta, Koen A.J. Eppenhof, Josien P.W. Pluim, Remco Duits MICCAI 2018 Young Scientist Award [paper](https://arxiv.org/abs/1804.03393)
-12. **Equivariant Spherical Deconvolution: Learning Sparse Orientation Distribution Functions from Spherical Data**
+12. **Equivariant Spherical Deconvolution: Learning Sparse Orientation Distribution Functions from Spherical Data**  
   Axel Elaldi\*, Neel Dey\*, Heejong Kim, Guido Gerig, Information Processing in Medical Imaging (IPMI) 2021 [paper](https://arxiv.org/abs/2102.09462)
-13. **Rotation-Equivariant Deep Learning for Diffusion MRI**
+13. **Rotation-Equivariant Deep Learning for Diffusion MRI**  
   Philip Müller, Vladimir Golkov, Valentina Tomassini, Daniel Cremers [paper](https://arxiv.org/abs/2102.06942)
 
 ### [Permutation Equivariance](#content)
