@@ -129,6 +129,8 @@ Carlos Esteves, Christine Allen-Blanchette, Xiaowei Zhou, Kostas Daniilidis ICLR
 8. **Universal Equivariant Multilayer Perceptrons**  
 Siamak Ravanbakhsh [paper](https://arxiv.org/abs/2002.02912)
 
+9. **Provably Strict Generalisation Benefit for Equivariant Models**
+  Bryn Elesedy, Sheheryar Zaidi [paper](https://arxiv.org/abs/2102.10333)
 
 
 ### [Equivariant Density Estimation and Sampling](#content)
@@ -176,14 +178,17 @@ Siamak Ravanbakhsh [paper](https://arxiv.org/abs/2002.02912)
   Gregor N. C. Simm, Robert Pinsler, Gábor Csányi, José Miguel Hernández-Lobato ICLR 2021 [paper](https://arxiv.org/abs/2011.12747)
 8. **Roto-translation equivariant convolutional networks: Application to histopathology image analysis**  
   Maxime W. Lafarge, Erik J. Bekkers, Josien P.W. Pluim, Remco Duits, Mitko Veta MedIA [paper](https://arxiv.org/abs/2002.08725)
-8. **Scale Equivariance Improves Siamese Tracking**  
+9. **Scale Equivariance Improves Siamese Tracking**  
   Ivan Sosnovik\*, Artem Moskalev\*, Arnold Smeulders WACV 2021 [paper](https://arxiv.org/abs/2007.09115)
-9. **3D G-CNNs for Pulmonary Nodule Detection**
+10. **3D G-CNNs for Pulmonary Nodule Detection**
   Marysia Winkels, Taco S. Cohen [paper](https://arxiv.org/abs/1804.04656) 
   International Conference on Medical Imaging with Deep Learning (MIDL), 2018.
-6. **Roto-translation covariant convolutional networks for medical image analysis**  
+11. **Roto-translation covariant convolutional networks for medical image analysis**  
   Erik J. Bekkers, Maxime W. Lafarge, Mitko Veta, Koen A.J. Eppenhof, Josien P.W. Pluim, Remco Duits MICCAI 2018 Young Scientist Award [paper](https://arxiv.org/abs/1804.03393)
-
+12. **Equivariant Spherical Deconvolution: Learning Sparse Orientation Distribution Functions from Spherical Data**
+  Axel Elaldi\*, Neel Dey\*, Heejong Kim, Guido Gerig, Information Processing in Medical Imaging (IPMI) 2021 [paper](https://arxiv.org/abs/2102.09462)
+13. **Rotation-Equivariant Deep Learning for Diffusion MRI**
+  Philip Müller, Vladimir Golkov, Valentina Tomassini, Daniel Cremers [paper](https://arxiv.org/abs/2102.06942)
 
 ### [Permutation Equivariance](#content)
 
