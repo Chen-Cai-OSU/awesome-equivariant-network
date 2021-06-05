@@ -132,17 +132,16 @@ Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pd
 31. **Isometric Transformation Invariant and Equivariant Graph Convolutional Networks**  
    Masanobu Horie, Naoki Morita, Toshiaki Hishinuma, Yu Ihara, Naoto Mitsume ICLR 2021 [paper](https://arxiv.org/abs/2005.06316)
    
-32. **E(n) Equivariant Graph Neural Networks**
-   Victor Garcia Satorras, Emiel Hoogeboom, Max Welling ICML 2021 [paper](https://arxiv.org/abs/2102.09844)
+32. **E(n) Equivariant Graph Neural Networks**  
+   Victor Garcia Satorras, Emiel Hoogeboom, Max Welling ICML 2021 [paper](https://arxiv.org/abs/2102.09844)  
    Note: a simple alternative that achieves E(n) equivariance
 
-33. **Vector Neurons: A General Framework for SO(3)-Equivariant Networks**
-   Congyue Deng, Or Litany, Yueqi Duan, Adrien Poulenard, Andrea Tagliasacchi, Leonidas Guibas  [paper](https://arxiv.org/abs/2104.12229)
+33. **Vector Neurons: A General Framework for SO(3)-Equivariant Networks**  
+   Congyue Deng, Or Litany, Yueqi Duan, Adrien Poulenard, Andrea Tagliasacchi, Leonidas Guibas  [paper](https://arxiv.org/abs/2104.12229)  
    Note: a simple MLP for type-1 features
 
-34. **Equivariant message passing for the prediction of tensorial properties and molecular spectra**
-
-   Kristof T. Schütt, Oliver T. Unke, Michael Gastegger ICML 2021 [paper](https://arxiv.org/abs/2102.03150)
+34. **Equivariant message passing for the prediction of tensorial properties and molecular spectra**  
+Kristof T. Schütt, Oliver T. Unke, Michael Gastegger ICML 2021 [paper](https://arxiv.org/abs/2102.03150)
 
    
 
@@ -174,7 +173,7 @@ Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pd
 Siamak Ravanbakhsh [paper](https://arxiv.org/abs/2002.02912)
 
 9. **Provably Strict Generalisation Benefit for Equivariant Models**  
-  Bryn Elesedy, Sheheryar Zaidi ICML 2021 [paper](https://arxiv.org/abs/2102.10333)
+Bryn Elesedy, Sheheryar Zaidi ICML 2021 [paper](https://arxiv.org/abs/2102.10333)
 
 
 ### [Equivariant Density Estimation and Sampling](#content)
@@ -233,8 +232,8 @@ Siamak Ravanbakhsh [paper](https://arxiv.org/abs/2002.02912)
   Axel Elaldi\*, Neel Dey\*, Heejong Kim, Guido Gerig, Information Processing in Medical Imaging (IPMI) 2021 [paper](https://arxiv.org/abs/2102.09462)
 13. **Rotation-Equivariant Deep Learning for Diffusion MRI**  
   Philip Müller, Vladimir Golkov, Valentina Tomassini, Daniel Cremers [paper](https://arxiv.org/abs/2102.06942)
-14. **Equivariant geometric learning for digital rock physics: estimating formation factor and effective permeability tensors from Morse graph**
-Chen Cai, Nikolaos Vlassis, Lucas Magee, Ran Ma, Zeyu Xiong, Bahador Bahmani, Teng-Fong Wong, Yusu Wang, WaiChing Sun [paper](https://arxiv.org/abs/2104.05608)
+14. **Equivariant geometric learning for digital rock physics: estimating formation factor and effective permeability tensors from Morse graph**  
+Chen Cai, Nikolaos Vlassis, Lucas Magee, Ran Ma, Zeyu Xiong, Bahador Bahmani, Teng-Fong Wong, Yusu Wang, WaiChing Sun [paper](https://arxiv.org/abs/2104.05608)  
 Note: equivariant nets + Morse graph for permeability tensor prediction
 
 
