@@ -235,8 +235,10 @@ Bryn Elesedy, Sheheryar Zaidi ICML 2021 [paper](https://arxiv.org/abs/2102.10333
 14. **Equivariant geometric learning for digital rock physics: estimating formation factor and effective permeability tensors from Morse graph**  
 Chen Cai, Nikolaos Vlassis, Lucas Magee, Ran Ma, Zeyu Xiong, Bahador Bahmani, Teng-Fong Wong, Yusu Wang, WaiChing Sun [paper](https://arxiv.org/abs/2104.05608)  
 Note: equivariant nets + Morse graph for permeability tensor prediction
-
-
+15. **Direct prediction of phonon density of states with Euclidean neural network**
+Zhantao Chen, Nina Andrejevic, Tess Smidt, Zhiwei Ding, Yen-Ting Chi, Quynh T. Nguyen, Ahmet Alatas, Jing Kong, Mingda Li, Advanced Science (2021) [paper](https://onlinelibrary.wiley.com/doi/10.1002/advs.202004214) [arXiv](https://arxiv.org/abs/2009.05163)
+16. **SE(3)-equivariant prediction of molecular wavefunctions and electronic densities**
+Oliver T. Unke, Mihail Bogojeski, Michael Gastegger, Mario Geiger, Tess Smidt, Klaus-Robert Müller [paper](https://arxiv.org/abs/2106.02347)
 
 
 ### [Permutation Equivariance](#content)
