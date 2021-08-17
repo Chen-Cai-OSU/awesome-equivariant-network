@@ -308,6 +308,8 @@ Note: covers representations of locally compact groups; induced representations.
 Note: covers fiber bundles, useful for understanding homogeneous G-CNNs and Gauge CNNs.
 
 
+### Theses / Dissertations
+1. Taco Cohen, Equivariant Convolutional Networks, PhD Thesis, University of Amsterdam, 2021 [pdf] (Note: Part II contains a lot of new material, not published before)
 
 
 ### [TO READ](#content)
