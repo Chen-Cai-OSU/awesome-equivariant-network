@@ -239,6 +239,8 @@ Note: equivariant nets + Morse graph for permeability tensor prediction
 Zhantao Chen, Nina Andrejevic, Tess Smidt, Zhiwei Ding, Yen-Ting Chi, Quynh T. Nguyen, Ahmet Alatas, Jing Kong, Mingda Li, Advanced Science (2021) [paper](https://onlinelibrary.wiley.com/doi/10.1002/advs.202004214) [arXiv](https://arxiv.org/abs/2009.05163)
 16. **SE(3)-equivariant prediction of molecular wavefunctions and electronic densities**
 Oliver T. Unke, Mihail Bogojeski, Michael Gastegger, Mario Geiger, Tess Smidt, Klaus-Robert Müller [paper](https://arxiv.org/abs/2106.02347)
+17. **Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking**
+Octavian-Eugen Ganea, Xinyuan Huang, Charlotte Bunne, Yatao Bian, Regina Barzilay, Tommi Jaakkola, Andreas Krause, under review, 2022 [paper](https://arxiv.org/abs/2111.07786)
 
 
 ### [Permutation Equivariance](#content)
