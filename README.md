@@ -290,6 +290,10 @@ Kostas Daniilidis: [Geometry-aware deep learning: A brief history of equivariant
 
 Andrew White: [ Deep Learning for Molecules and Materials.](https://whitead.github.io/dmol-book/dl/Equivariant.html)
 
+Erik Bekkers: [An Introduction to Group Equivariant Deep Learning](https://uvagedl.github.io) A course offered at UvA
+
+Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković: [Geometric Deep Learning Course](https://geometricdeeplearning.com/lectures/)
+
 
 
 ### [Background](#content)
