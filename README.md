@@ -143,7 +143,9 @@ Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pd
 34. **Equivariant message passing for the prediction of tensorial properties and molecular spectra**  
 Kristof T. Schütt, Oliver T. Unke, Michael Gastegger ICML 2021 [paper](https://arxiv.org/abs/2102.03150)
 
-   
+35. **Geometric and Physical Quantities improve E(3) Equivariant Message Passing**
+   Johannes Brandstetter and Rob Hesselink and Elise van der Pol and Erik J Bekkers and Max Welling ICLR 2022 (spotlight) [paper](https://arxiv.org/abs/2110.02905), [code](https://github.com/RobDHess/Steerable-E3-GNN)
+
 
 ### [Theory](#content)
 
