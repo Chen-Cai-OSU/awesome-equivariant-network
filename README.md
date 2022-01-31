@@ -146,6 +146,10 @@ Kristof T. Schütt, Oliver T. Unke, Michael Gastegger ICML 2021 [paper](https://
 35. **Field Convolutions For Surface CNNs**
 Thomas W. Mitchel, Vladimir G. Kim, Michael Kazhdan ICCV 2021 (Oral) [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Mitchel_Field_Convolutions_for_Surface_CNNs_ICCV_2021_paper.html)   
 
+36. **Geometric and Physical Quantities improve E(3) Equivariant Message Passing**
+   Johannes Brandstetter and Rob Hesselink and Elise van der Pol and Erik J Bekkers and Max Welling ICLR 2022 (spotlight) [paper](https://arxiv.org/abs/2110.02905), [code](https://github.com/RobDHess/Steerable-E3-GNN)
+
+
 ### [Theory](#content)
 
 1. **On the Generalization of Equivariance and Convolution in Neural Networks to the Action of Compact Groups**  
@@ -240,6 +244,8 @@ Note: equivariant nets + Morse graph for permeability tensor prediction
 Zhantao Chen, Nina Andrejevic, Tess Smidt, Zhiwei Ding, Yen-Ting Chi, Quynh T. Nguyen, Ahmet Alatas, Jing Kong, Mingda Li, Advanced Science (2021) [paper](https://onlinelibrary.wiley.com/doi/10.1002/advs.202004214) [arXiv](https://arxiv.org/abs/2009.05163)
 16. **SE(3)-equivariant prediction of molecular wavefunctions and electronic densities**
 Oliver T. Unke, Mihail Bogojeski, Michael Gastegger, Mario Geiger, Tess Smidt, Klaus-Robert Müller [paper](https://arxiv.org/abs/2106.02347)
+17. **Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking**
+Octavian-Eugen Ganea, Xinyuan Huang, Charlotte Bunne, Yatao Bian, Regina Barzilay, Tommi Jaakkola, Andreas Krause, under review, 2022 [paper](https://arxiv.org/abs/2111.07786)
 
 
 ### [Permutation Equivariance](#content)
