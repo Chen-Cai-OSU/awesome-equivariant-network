@@ -143,7 +143,8 @@ Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pd
 34. **Equivariant message passing for the prediction of tensorial properties and molecular spectra**  
 Kristof T. Schütt, Oliver T. Unke, Michael Gastegger ICML 2021 [paper](https://arxiv.org/abs/2102.03150)
 
-   
+35. **Field Convolutions For Surface CNNs**
+Thomas W. Mitchel, Vladimir G. Kim, Michael Kazhdan ICCV 2021 (Oral) [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Mitchel_Field_Convolutions_for_Surface_CNNs_ICCV_2021_paper.html)   
 
 ### [Theory](#content)
 
