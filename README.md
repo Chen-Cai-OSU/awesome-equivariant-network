@@ -266,6 +266,8 @@ Manzil Zaheer, Satwik Kottur, Siamak Ravanbakhsh, Barnabas Poczos, Ruslan Salakh
   Haggai Maron, Or Litany, Gal Chechik, Ethan Fetaya [ICML 2020 best paper](https://arxiv.org/abs/2002.08599)
 7. **On the Universality of Invariant Networks**  
   Haggai Maron, Ethan Fetaya, Nimrod Segol, Yaron Lipman [paper](https://arxiv.org/abs/1901.09342)
+8. **Transformers Generalize DeepSets and Can be Extended to Graphs and Hypergraphs**
+  Jinwoo Kim, Saeyoon Oh, Seunghoon Hong [paper](https://arxiv.org/abs/2110.14416)
 
 
 ### [Talk and Tutorial](#content)
