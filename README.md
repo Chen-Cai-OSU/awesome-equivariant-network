@@ -25,99 +25,136 @@ Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pd
 1. **Group Equivariant Convolutional Networks**  
    Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pdf)   
    Note: first paper; discrete group; 
+   
 2. **Steerable CNNs**  
   Taco S. Cohen, Max Welling ICLR 2017 [paper](https://arxiv.org/abs/1612.08498)
+  
 3. **Harmonic Networks: Deep Translation and Rotation Equivariance**  
   Daniel E. Worrall, Stephan J. Garbin, Daniyar Turmukhambetov, Gabriel J. Brostow CVPR 2017 [paper](https://arxiv.org/abs/1612.04642)   
+  
 4. **Spherical CNNs**  
   Taco S. Cohen, Mario Geiger, Jonas Koehler, Max Welling ICLR 2018 best paper  [paper](https://arxiv.org/abs/1801.10130)  
   Note: use generalized FFT to speed up convolution on $S^2$ and $SO(3)$
+  
 5. **Clebsch–Gordan Nets: a Fully Fourier Space Spherical Convolutional Neural Network**  
   Risi Kondor, Zhen Lin, Shubhendu Trivedi NeurIPS 2018 [paper](https://arxiv.org/abs/1806.09231)  
   Note: perform equivariant nonlinearity in Fourier space; 
+  
 6. **General E(2)-Equivariant Steerable CNNs**  
   Maurice Weiler, Gabriele Cesa NeurIPS 2019 [paper](https://arxiv.org/abs/1911.08251)  
   Note: nice benchmark on different reprsentations
+  
 7. **Learning Steerable Filters for Rotation Equivariant CNNs**  
    Maurice Weiler, Fred A. Hamprecht, Martin Storath CVPR 2018 [paper](https://arxiv.org/abs/1711.07289)   
    Note: group convolutions, kernels parameterized in circular harmonic basis (steerable filters);
+   
 8. **Learning SO(3) Equivariant Representations with Spherical CNNs**  
    Carlos Esteves, Christine Allen-Blanchette, Ameesh Makadia, Kostas Daniilidis ECCV 2018 [paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Carlos_Esteves_Learning_SO3_Equivariant_ECCV_2018_paper.html)  
    Note: SO(3) equivariance; zonal filter
+   
 9. **Polar Transformer Networks**  
   Carlos Esteves, Christine Allen-Blanchette, Xiaowei Zhou, Kostas Daniilidis ICLR 2018 [paper](https://arxiv.org/abs/1709.01889)  
+  
 10. **3D Steerable CNNs: Learning Rotationally Equivariant Features in Volumetric Data**  
   Maurice Weiler, Mario Geiger, Max Welling, Wouter Boomsma, Taco Cohen  NeurIPS 2018 [paper](https://arxiv.org/abs/1807.02547)  
   Note: SE(3) equivariance; characterize the basis of steerable kernel
+  
 11. **Tensor field networks: Rotation- and translation-equivariant neural networks for 3D point clouds**  
    Nathaniel Thomas, Tess Smidt, Steven Kearnes, Lusann Yang, Li Li, Kai Kohlhoff, Patrick Riley  [paper](https://arxiv.org/abs/1802.08219)  
    Note: SE(3) equivariance for point clouds
+   
 12. **Equivariant Multi-View Networks**  
    Carlos Esteves, Yinshuang Xu, Christine Allen-Blanchette, Kostas Daniilidis  ICCV 2019 [paper](https://arxiv.org/abs/1904.00993)   
+   
 13. **Gauge Equivariant Convolutional Networks and the Icosahedral CNN**  
    Taco S. Cohen, Maurice Weiler, Berkay Kicanaoglu, Max Welling ICML 2019 [paper](https://arxiv.org/abs/1902.04615), [talk](https://slideslive.com/38915809/gauge-equivariant-convolutional-networks?locale=de)  
    Note: gauge equivariance on general manifold
+   
 14. **Cormorant: Covariant Molecular Neural Networks**  
    Brandon Anderson, Truong-Son Hy, Risi Kondor NeurIPS 2019 [paper](https://arxiv.org/abs/1906.04015)
+   
 15. **Deep Scale-spaces: Equivariance Over Scale**  
    Daniel Worrall, Max Welling NeurIPS 2019 [paper](https://papers.nips.cc/paper/2019/hash/f04cd7399b2b0128970efb6d20b5c551-Abstract.html)
+   
 16. **Scale-Equivariant Steerable Networks**  
    Ivan Sosnovik, Michał Szmaja, Arnold Smeulders ICLR 2020 [paper](https://openreview.net/forum?id=HJgpugrKPS)
+   
 17. **B-Spline CNNs on Lie Groups**  
    Erik J Bekkers ICLR 2020 [paper](https://openreview.net/forum?id=H1gBhkBFDH)    
+   
 18. **SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks**  
    Fabian B. Fuchs, Daniel E. Worrall, Volker Fischer, Max Welling NeurIPS 2020  [paper](https://arxiv.org/abs/2006.10503), [blog](https://fabianfuchsml.github.io/se3transformer/)  
    Note: TFN + equivariant self-attention; improved spherical harmonics computation
+   
 19. **Gauge Equivariant Mesh CNNs: Anisotropic convolutions on geometric graphs**  
    Pim de Haan, Maurice Weiler, Taco Cohen, Max Welling ICLR 2021 [paper](https://arxiv.org/abs/2003.05425)  
    Note: anisotropic gauge equivariant kernels + message passing  by parallel transporting features over mesh edges
+   
 20. **Lorentz Group Equivariant Neural Network for Particle Physics**  
    Alexander Bogatskiy, Brandon Anderson, Jan T. Offermann, Marwah Roussi, David W. Miller, Risi Kondor ICML 2020 [paper](https://arxiv.org/abs/2006.04780)  
    Note: SO(1, 3) equivariance
+   
 21. **Generalizing Convolutional Neural Networks for Equivariance to Lie Groups on Arbitrary Continuous Data**  
    Marc Finzi, Samuel Stanton, Pavel Izmailov, Andrew Gordon Wilson ICML 2020 [paper](https://arxiv.org/abs/2002.12880)  
    Note: fairly generic architecture; use Monte Carlo sampling to achieve equivariance in expectation; 
+   
 22. **Spin-Weighted Spherical CNNs**  
    Carlos Esteves, Ameesh Makadia, Kostas Daniilidis NeurIPS 2020 [paper](https://arxiv.org/abs/2006.10731)  
    Note: anisotropic filter for vector field on sphere
+   
 23. **Learning Invariances in Neural Networks**  
    Gregory Benton, Marc Finzi, Pavel Izmailov, Andrew Gordon Wilson NeurIPS 2020 [paper](https://arxiv.org/abs/2010.11882)   
    Note: very interesting approch; enfore "soft" invariance via learning over both model parameters and distributions over augmentations
-24. **Lie Algebra Convolutional Neural Networks with Automatic Symmetry Extraction**  
-   Nima Dehmamy, Yanchen Liu, Robin Walters, Rose Yu  [paper](https://openreview.net/forum?id=cTQnZPLIohy)    
-   Note: very interesting paper; It’s unfortunate that it is rejected by ICLR 2021  
+   
 25. **LieTransformer: Equivariant self-attention for Lie Groups**  
    Michael Hutchinson, Charline Le Lan, Sheheryar Zaidi, Emilien Dupont, Yee Whye Teh, Hyunjik Kim [paper](https://arxiv.org/abs/2012.10885)  
    Note: equivariant self attention to arbitrary Lie groups and their discrete subgroups
+   
 26. **Co-Attentive Equivariant Neural Networks: Focusing Equivariance On Transformations Co-Occurring In Data**  
    David W. Romero, Mark Hoogendoorn ICLR 2020 [paper](https://arxiv.org/abs/1911.07849)
+   
 27. **Attentive Group Equivariant Convolutional Networks**  
    David W. Romero, Erik J. Bekkers, Jakub M. Tomczak, Mark Hoogendoorn ICML 2020 [paper](https://arxiv.org/abs/2002.03830)
+   
 28. **Wavelet Networks: Scale Equivariant Learning From Raw Waveforms**  
    David W. Romero, Erik J. Bekkers, Jakub M. Tomczak, Mark Hoogendoorn [paper](https://arxiv.org/abs/2006.05259)
+   
 29. **Group Equivariant Stand-Alone Self-Attention For Vision**  
    David W. Romero, Jean-Baptiste Cordonnier ICLR 2021 [paper](https://arxiv.org/abs/2010.00977)
+   
 30. **Incorporating Symmetry into Deep Dynamics Models for Improved Generalization**  
    Rui Wang, Robin Walters, Rose Yu ICLR 2021 [paper](https://arxiv.org/abs/2002.03061)
+
 31. **MDP Homomorphic Networks: Group Symmetries in Reinforcement Learning**  
    Elise van der Pol, Daniel E. Worrall, Herke van Hoof, Frans A. Oliehoek, Max Welling NeurIPS 2020 [paper](https://arxiv.org/abs/2006.16908)
+
 32. **Isometric Transformation Invariant and Equivariant Graph Convolutional Networks**  
    Masanobu Horie, Naoki Morita, Toshiaki Hishinuma, Yu Ihara, Naoto Mitsume ICLR 2021 [paper](https://arxiv.org/abs/2005.06316)
+
 33. **E(n) Equivariant Graph Neural Networks**  
    Victor Garcia Satorras, Emiel Hoogeboom, Max Welling ICML 2021 [paper](https://arxiv.org/abs/2102.09844)  
    Note: a simple alternative that achieves E(n) equivariance
+
 34. **Vector Neurons: A General Framework for SO(3)-Equivariant Networks**  
    Congyue Deng, Or Litany, Yueqi Duan, Adrien Poulenard, Andrea Tagliasacchi, Leonidas Guibas  [paper](https://arxiv.org/abs/2104.12229)  
    Note: a simple MLP for type-1 features
+
 35. **Equivariant message passing for the prediction of tensorial properties and molecular spectra**  
    Kristof T. Schütt, Oliver T. Unke, Michael Gastegger ICML 2021 [paper](https://arxiv.org/abs/2102.03150)
+
 36. **Field Convolutions For Surface CNNs**
    Thomas W. Mitchel, Vladimir G. Kim, Michael Kazhdan ICCV 2021 (Oral) [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Mitchel_Field_Convolutions_for_Surface_CNNs_ICCV_2021_paper.html)   
+
 37. **Scalars are universal: Equivariant machine learning, structured like classical physics**
    Soledad Villar, David W.Hogg, Kate Storey-Fisher, Weichi Yao, Ben Blum-Smith NeruIPS 2021 [paper](https://arxiv.org/abs/2106.06610)
+
 39. **GemNet: Universal Directional Graph Neural Networks for Molecules**
    Johannes Klicpera, Florian Becker, Stephan Günnemann NeurIPS 2021 [paper](https://proceedings.neurips.cc/paper/2021/hash/35cf8659cfcb13224cbd47863a34fc58-Abstract.html)
-39. **Geometric and Physical Quantities improve E(3) Equivariant Message Passing**
+   
+39. **Automatic Symmetry Discovery with Lie Algebra Convolutional Network**
+   Nima Dehmamy, Robin Walters, Yanchen Liu, Dashun Wang, Rose Yu NeurIPS 2021 [paper](https://openreview.net/pdf?id=NPOWF_ZLfC5)
+
+40. **Geometric and Physical Quantities improve E(3) Equivariant Message Passing**
    Johannes Brandstetter and Rob Hesselink and Elise van der Pol and Erik J Bekkers and Max Welling ICLR 2022 (spotlight) [paper](https://arxiv.org/abs/2110.02905), [code](https://github.com/RobDHess/Steerable-E3-GNN)
 
 ### [Theory](#content)
