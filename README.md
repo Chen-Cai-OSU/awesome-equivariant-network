@@ -105,19 +105,19 @@ Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pd
    Note: a simple alternative that achieves E(n) equivariance
 34. **Vector Neurons: A General Framework for SO(3)-Equivariant Networks**  
    Congyue Deng, Or Litany, Yueqi Duan, Adrien Poulenard, Andrea Tagliasacchi, Leonidas Guibas  [paper](https://arxiv.org/abs/2104.12229)  Note: a simple MLP for type-1 features  
-35. **Equivariant message passing for the prediction of tensorial properties and molecular spectra** 
+35. **Equivariant message passing for the prediction of tensorial properties and molecular spectra**  
    Kristof T. Schütt, Oliver T. Unke, Michael Gastegger ICML 2021 [paper](https://arxiv.org/abs/2102.03150)  
-36. **Field Convolutions For Surface CNNs**
+36. **Field Convolutions For Surface CNNs**  
    Thomas W. Mitchel, Vladimir G. Kim, Michael Kazhdan ICCV 2021 (Oral) [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Mitchel_Field_Convolutions_for_Surface_CNNs_ICCV_2021_paper.html)   
-37. **Scalars are universal: Equivariant machine learning, structured like classical physics**
+37. **Scalars are universal: Equivariant machine learning, structured like classical physics**  
    Soledad Villar, David W.Hogg, Kate Storey-Fisher, Weichi Yao, Ben Blum-Smith NeruIPS 2021 [paper](https://arxiv.org/abs/2106.06610)
-39. **GemNet: Universal Directional Graph Neural Networks for Molecules**
+39. **GemNet: Universal Directional Graph Neural Networks for Molecules**  
    Johannes Klicpera, Florian Becker, Stephan Günnemann NeurIPS 2021 [paper](https://proceedings.neurips.cc/paper/2021/hash/35cf8659cfcb13224cbd47863a34fc58-Abstract.html)
-39. **Automatic Symmetry Discovery with Lie Algebra Convolutional Network**
+39. **Automatic Symmetry Discovery with Lie Algebra Convolutional Network**  
    Nima Dehmamy, Robin Walters, Yanchen Liu, Dashun Wang, Rose Yu NeurIPS 2021 [paper](https://openreview.net/pdf?id=NPOWF_ZLfC5)
-40. **Geometric and Physical Quantities improve E(3) Equivariant Message Passing**
+40. **Geometric and Physical Quantities improve E(3) Equivariant Message Passing**  
    Johannes Brandstetter and Rob Hesselink and Elise van der Pol and Erik J Bekkers and Max Welling ICLR 2022 (spotlight) [paper](https://arxiv.org/abs/2110.02905), [code](https://github.com/RobDHess/Steerable-E3-GNN)
-40. **Frame Averaging for Invariant and Equivariant Network Design**
+40. **Frame Averaging for Invariant and Equivariant Network Design**  
    Omri Puny, Matan Atzmon, Heli Ben-Hamu, Ishan Misra, Aditya Grover, Edward J. Smith, Yaron Lipman [paper](https://arxiv.org/abs/2110.03336) ICLR 2022
 
 ### [Theory](#content)
