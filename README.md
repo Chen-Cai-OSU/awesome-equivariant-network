@@ -104,10 +104,9 @@ Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pd
    Victor Garcia Satorras, Emiel Hoogeboom, Max Welling ICML 2021 [paper](https://arxiv.org/abs/2102.09844)  
    Note: a simple alternative that achieves E(n) equivariance
 34. **Vector Neurons: A General Framework for SO(3)-Equivariant Networks**  
-   Congyue Deng, Or Litany, Yueqi Duan, Adrien Poulenard, Andrea Tagliasacchi, Leonidas Guibas  [paper](https://arxiv.org/abs/2104.12229)  
-   Note: a simple MLP for type-1 features
-35. **Equivariant message passing for the prediction of tensorial properties and molecular spectra**  
-   Kristof T. Schütt, Oliver T. Unke, Michael Gastegger ICML 2021 [paper](https://arxiv.org/abs/2102.03150)
+   Congyue Deng, Or Litany, Yueqi Duan, Adrien Poulenard, Andrea Tagliasacchi, Leonidas Guibas  [paper](https://arxiv.org/abs/2104.12229)  Note: a simple MLP for type-1 features  
+35. **Equivariant message passing for the prediction of tensorial properties and molecular spectra** 
+   Kristof T. Schütt, Oliver T. Unke, Michael Gastegger ICML 2021 [paper](https://arxiv.org/abs/2102.03150)  
 36. **Field Convolutions For Surface CNNs**
    Thomas W. Mitchel, Vladimir G. Kim, Michael Kazhdan ICCV 2021 (Oral) [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Mitchel_Field_Convolutions_for_Surface_CNNs_ICCV_2021_paper.html)   
 37. **Scalars are universal: Equivariant machine learning, structured like classical physics**
