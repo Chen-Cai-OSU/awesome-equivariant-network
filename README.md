@@ -119,6 +119,8 @@ Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pd
    Johannes Brandstetter and Rob Hesselink and Elise van der Pol and Erik J Bekkers and Max Welling ICLR 2022 (spotlight) [paper](https://arxiv.org/abs/2110.02905), [code](https://github.com/RobDHess/Steerable-E3-GNN)
 40. **Frame Averaging for Invariant and Equivariant Network Design**  
    Omri Puny, Matan Atzmon, Heli Ben-Hamu, Ishan Misra, Aditya Grover, Edward J. Smith, Yaron Lipman [paper](https://arxiv.org/abs/2110.03336) ICLR 2022
+41. **CNNs on Surfaces using Rotation-Equivariant Features**
+   Ruben Wiersma, Elmar Eisemann, Klaus Hildebrandt [paper](https://dl.acm.org/doi/pdf/10.1145/3386569.3392437) SIGGRAPH 2020
 
 ### [Theory](#content)
 
