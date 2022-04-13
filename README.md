@@ -74,13 +74,15 @@ Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pd
 20. **Lorentz Group Equivariant Neural Network for Particle Physics**  
    Alexander Bogatskiy, Brandon Anderson, Jan T. Offermann, Marwah Roussi, David W. Miller, Risi Kondor ICML 2020 [paper](https://arxiv.org/abs/2006.04780)  
    Note: SO(1, 3) equivariance
-21. **Generalizing Convolutional Neural Networks for Equivariance to Lie Groups on Arbitrary Continuous Data**  
+21. **CNNs on Surfaces using Rotation-Equivariant Features**  
+      Ruben Wiersma, Elmar Eisemann, Klaus Hildebrandt [paper](https://dl.acm.org/doi/pdf/10.1145/3386569.3392437) SIGGRAPH 2020  
+22. **Generalizing Convolutional Neural Networks for Equivariance to Lie Groups on Arbitrary Continuous Data**  
    Marc Finzi, Samuel Stanton, Pavel Izmailov, Andrew Gordon Wilson ICML 2020 [paper](https://arxiv.org/abs/2002.12880)  
    Note: fairly generic architecture; use Monte Carlo sampling to achieve equivariance in expectation; 
-22. **Spin-Weighted Spherical CNNs**  
+23. **Spin-Weighted Spherical CNNs**  
    Carlos Esteves, Ameesh Makadia, Kostas Daniilidis NeurIPS 2020 [paper](https://arxiv.org/abs/2006.10731)  
    Note: anisotropic filter for vector field on sphere
-23. **Learning Invariances in Neural Networks**  
+24. **Learning Invariances in Neural Networks**  
    Gregory Benton, Marc Finzi, Pavel Izmailov, Andrew Gordon Wilson NeurIPS 2020 [paper](https://arxiv.org/abs/2010.11882)   
    Note: very interesting approch; enfore "soft" invariance via learning over both model parameters and distributions over augmentations
 25. **LieTransformer: Equivariant self-attention for Lie Groups**  
@@ -111,13 +113,13 @@ Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pd
    Thomas W. Mitchel, Vladimir G. Kim, Michael Kazhdan ICCV 2021 (Oral) [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Mitchel_Field_Convolutions_for_Surface_CNNs_ICCV_2021_paper.html)   
 37. **Scalars are universal: Equivariant machine learning, structured like classical physics**  
    Soledad Villar, David W.Hogg, Kate Storey-Fisher, Weichi Yao, Ben Blum-Smith NeruIPS 2021 [paper](https://arxiv.org/abs/2106.06610)
-39. **GemNet: Universal Directional Graph Neural Networks for Molecules**  
+38. **GemNet: Universal Directional Graph Neural Networks for Molecules**  
    Johannes Klicpera, Florian Becker, Stephan Günnemann NeurIPS 2021 [paper](https://proceedings.neurips.cc/paper/2021/hash/35cf8659cfcb13224cbd47863a34fc58-Abstract.html)
 39. **Automatic Symmetry Discovery with Lie Algebra Convolutional Network**  
    Nima Dehmamy, Robin Walters, Yanchen Liu, Dashun Wang, Rose Yu NeurIPS 2021 [paper](https://openreview.net/pdf?id=NPOWF_ZLfC5)
 40. **Geometric and Physical Quantities improve E(3) Equivariant Message Passing**  
    Johannes Brandstetter and Rob Hesselink and Elise van der Pol and Erik J Bekkers and Max Welling ICLR 2022 (spotlight) [paper](https://arxiv.org/abs/2110.02905), [code](https://github.com/RobDHess/Steerable-E3-GNN)
-40. **Frame Averaging for Invariant and Equivariant Network Design**  
+41. **Frame Averaging for Invariant and Equivariant Network Design**  
    Omri Puny, Matan Atzmon, Heli Ben-Hamu, Ishan Misra, Aditya Grover, Edward J. Smith, Yaron Lipman [paper](https://arxiv.org/abs/2110.03336) ICLR 2022
 
 ### [Theory](#content)
