@@ -218,6 +218,8 @@ Zhantao Chen, Nina Andrejevic, Tess Smidt, Zhiwei Ding, Yen-Ting Chi, Quynh T. N
 Oliver T. Unke, Mihail Bogojeski, Michael Gastegger, Mario Geiger, Tess Smidt, Klaus-Robert Müller [paper](https://arxiv.org/abs/2106.02347)
 17. **Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking**
 Octavian-Eugen Ganea, Xinyuan Huang, Charlotte Bunne, Yatao Bian, Regina Barzilay, Tommi Jaakkola, Andreas Krause, under review, 2022 [paper](https://arxiv.org/abs/2111.07786)
+18. **Roto-translated Local Coordinate Frames For Interacting Dynamical Systems**
+Miltiadis Kofinas, Naveen Shankar Nagaraja, Efstratios Gavves NeurIPS 2021 [paper](https://arxiv.org/abs/2110.14961)
 
 
 ### [Permutation Equivariance](#content)
