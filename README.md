@@ -122,7 +122,11 @@ Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pd
 41. **Frame Averaging for Invariant and Equivariant Network Design**  
    Omri Puny, Matan Atzmon, Heli Ben-Hamu, Ishan Misra, Aditya Grover, Edward J. Smith, Yaron Lipman [paper](https://arxiv.org/abs/2110.03336) ICLR 2022
 42. **Learning Local Equivariant Representations for Large-Scale Atomistic Dynamics**
-   Albert Musaelian, Simon Batzner, Anders Johansson, Lixin Sun, Cameron J. Owen, Mordechai Kornbluth, Boris Kozinsky [paper](https://arxiv.org/abs/2204.05249)
+   Albert Musaelian, Simon Batzner, Anders Johansson, Lixin Sun, Cameron J. Owen, Mordechai Kornbluth, Boris Kozinsky [paper](https://arxiv.org/abs/2204.05249) 
+43. **Möbius Convolutions for Spherical CNNs**  
+   Thomas W. Mitchel, Noam Aigerman, Vladimir G. Kim, Michael Kazhdan SIGGRAPH 2022 [paper](https://arxiv.org/abs/2201.12212)  
+   (Note: Equivariance to the action of SL(2, C) on the sphere. To our knowledge this is the first *conformally* equivariant convolutional surface network)
+
 
 ### [Theory](#content)
 
@@ -223,7 +227,7 @@ Miltiadis Kofinas, Naveen Shankar Nagaraja, Efstratios Gavves NeurIPS 2021 [pape
 
 
 ### [Permutation Equivariance](#content)
-
+https://www.mitchel.computer/doc/thesis.pdf
 There are many paper on this topics. I only added very few of them.
 
 1. **PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation**  
@@ -297,6 +301,10 @@ Note: covers fiber bundles, useful for understanding homogeneous G-CNNs and Gaug
 
 ### Theses / Dissertations
 1. Taco Cohen, Equivariant Convolutional Networks, PhD Thesis, University of Amsterdam, 2021 [pdf] (Note: Part II contains a lot of new material, not published before)
+
+2. **Extending Convolution Through Spatially Adaptive Alignment**  
+Thomas W. Mitchel, PhD Thesis, Johns Hopkins University, 2022 [pdf](https://www.mitchel.computer/doc/thesis.pdf)  
+   *Presents a novel, unified theoretical framework for transformation-equivariant convolutions on arbitrary homogenous spaces and 2D Riemannian manifolds. Can handle high-dimensional, non-compact transformation groups.*
 
 
 ### [TO READ](#content)
