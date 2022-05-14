@@ -75,7 +75,7 @@ Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pd
    Alexander Bogatskiy, Brandon Anderson, Jan T. Offermann, Marwah Roussi, David W. Miller, Risi Kondor ICML 2020 [paper](https://arxiv.org/abs/2006.04780)  
    Note: SO(1, 3) equivariance
 21. **CNNs on Surfaces using Rotation-Equivariant Features**  
-      Ruben Wiersma, Elmar Eisemann, Klaus Hildebrandt [paper](https://dl.acm.org/doi/pdf/10.1145/3386569.3392437) SIGGRAPH 2020  
+      Ruben Wiersma, Elmar Eisemann, Klaus Hildebrandt SIGGRAPH 2020 [paper](https://dl.acm.org/doi/pdf/10.1145/3386569.3392437), [code](https://github.com/rubenwiersma/hsn)  
 22. **Generalizing Convolutional Neural Networks for Equivariance to Lie Groups on Arbitrary Continuous Data**  
    Marc Finzi, Samuel Stanton, Pavel Izmailov, Andrew Gordon Wilson ICML 2020 [paper](https://arxiv.org/abs/2002.12880)  
    Note: fairly generic architecture; use Monte Carlo sampling to achieve equivariance in expectation; 
@@ -126,6 +126,9 @@ Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pd
 43. **Möbius Convolutions for Spherical CNNs**  
    Thomas W. Mitchel, Noam Aigerman, Vladimir G. Kim, Michael Kazhdan SIGGRAPH 2022 [paper](https://arxiv.org/abs/2201.12212)  
    (Note: Equivariance to the action of SL(2, C) on the sphere. To our knowledge this is the first *conformally* equivariant convolutional surface network)
+44. **DeltaConv: Anisotropic Operators for Geometric Deep Learning on Point Clouds**
+   Ruben Wiersma, Ahmad Nasikun, Elmar Eisemann, Klaus Hildebrandt SIGGRAPH 2022 [paper](https://arxiv.org/abs/2111.08799), [code](https://github.com/rubenwiersma/deltaconv)
+   Rotation equivariance by using differential operators.
 
 
 ### [Theory](#content)
