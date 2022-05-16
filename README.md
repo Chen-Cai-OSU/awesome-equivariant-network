@@ -161,6 +161,9 @@ Siamak Ravanbakhsh [paper](https://arxiv.org/abs/2002.02912)
 9. **Provably Strict Generalisation Benefit for Equivariant Models**  
 Bryn Elesedy, Sheheryar Zaidi ICML 2021 [paper](https://arxiv.org/abs/2102.10333)
 
+10. **The Design Space of E(3)-Equivariant Atom-Centered Interatomic Potentials**
+Ilyes Batatia, Simon Batzner, Dávid Péter Kovács, Albert Musaelian, Gregor N. C. Simm, Ralf Drautz, Christoph Ortner, Boris Kozinsky, Gábor Csányi [paper](https://arxiv.org/abs/2205.06643)
+
 
 ### [Equivariant Density Estimation and Sampling](#content)
 
