@@ -161,6 +161,9 @@ Siamak Ravanbakhsh [paper](https://arxiv.org/abs/2002.02912)
 9. **Provably Strict Generalisation Benefit for Equivariant Models**  
 Bryn Elesedy, Sheheryar Zaidi ICML 2021 [paper](https://arxiv.org/abs/2102.10333)
 
+10. **Implicit Bias of Linear Equivariant Networks**  
+Hannah Lawrence, Kristian Georgiev, Andrew Dienes, Bobak T. Kiani ICML 2022 [paper](https://arxiv.org/abs/2110.06084)
+
 
 ### [Equivariant Density Estimation and Sampling](#content)
 
