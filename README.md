@@ -231,7 +231,7 @@ Octavian-Eugen Ganea, Xinyuan Huang, Charlotte Bunne, Yatao Bian, Regina Barzila
 18. **Roto-translated Local Coordinate Frames For Interacting Dynamical Systems**
 Miltiadis Kofinas, Naveen Shankar Nagaraja, Efstratios Gavves NeurIPS 2021 [paper](https://arxiv.org/abs/2110.14961)
 19. **MACE: Higher Order Equivariant Message Passing Neural Networks for Fast and Accurate Force Fields**<br>
-Ilyes Batatia, Dávid Péter Kovács, Gregor N. C. Simm, Christoph Ortner, Gábor Csányi, under review, 2022 [paper](https://arxiv.org/abs/2206.07697)
+Ilyes Batatia, Dávid Péter Kovács, Gregor N. C. Simm, Christoph Ortner, Gábor Csányi, under review, 2022 [paper](https://arxiv.org/abs/2206.07697), [code](https://github.com/ACEsuit/mace)
 
 
 ### [Permutation Equivariance](#content)
