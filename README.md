@@ -220,8 +220,9 @@ Oliver T. Unke, Mihail Bogojeski, Michael Gastegger, Mario Geiger, Tess Smidt, K
 Octavian-Eugen Ganea, Xinyuan Huang, Charlotte Bunne, Yatao Bian, Regina Barzilay, Tommi Jaakkola, Andreas Krause, under review, 2022 [paper](https://arxiv.org/abs/2111.07786)
 18. **Roto-translated Local Coordinate Frames For Interacting Dynamical Systems**
 Miltiadis Kofinas, Naveen Shankar Nagaraja, Efstratios Gavves NeurIPS 2021 [paper](https://arxiv.org/abs/2110.14961)
-
-
+19. **Symmetry-aware Neural Architecture for. Embodied Visual Exploration** 
+Shuang Liu, Takayuki Okatani, 
+CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Symmetry-Aware_Neural_Architecture_for_Embodied_Visual_Exploration_CVPR_2022_paper.pdf)
 ### [Permutation Equivariance](#content)
 
 There are many paper on this topics. I only added very few of them.
