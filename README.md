@@ -232,7 +232,22 @@ Octavian-Eugen Ganea, Xinyuan Huang, Charlotte Bunne, Yatao Bian, Regina Barzila
 Miltiadis Kofinas, Naveen Shankar Nagaraja, Efstratios Gavves NeurIPS 2021 [paper](https://arxiv.org/abs/2110.14961)
 19. **MACE: Higher Order Equivariant Message Passing Neural Networks for Fast and Accurate Force Fields**<br>
 Ilyes Batatia, Dávid Péter Kovács, Gregor N. C. Simm, Christoph Ortner, Gábor Csányi, under review, 2022 [paper](https://arxiv.org/abs/2206.07697), [code](https://github.com/ACEsuit/mace)
-
+20. **Equivariant Q Learning in Spatial Action Spaces**
+Dian Wang, Robin Walters, Xupeng Zhu, Robert Platt, CoRL 2021 [paper](https://arxiv.org/pdf/2110.15443.pdf)
+21. **SO(2)-Equivariant Reinforcement Learning**
+Dian Wang, Robin Walters, Robert Platt, ICLR 2022 [paper](https://arxiv.org/pdf/2203.04439.pdf)
+22. **Sample Efficient Grasp Learning Using Equivariant Models**
+Xupeng Zhu, Dian Wang, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt, RSS 2022 [paper](https://arxiv.org/pdf/2202.09468.pdf)
+23. **Equivariant Transporter Network**
+Haojie Huang, Dian Wang, Robin Walters, Robert Platt, RSS 2022 [paper](https://arxiv.org/pdf/2202.09400.pdf)
+24. **On-Robot Learning With Equivariant Models**
+Dian Wang, Mingxi Jia, Xupeng Zhu, Robin Walters, Robert Platt, CoRL 2022 [paper](https://arxiv.org/pdf/2203.04923.pdf)
+25. **Edge Grasp Network: Graph-Based SE(3)-invariant Approach to Grasp Detection**
+Haojie Huang, Dian Wang, Xupeng Zhu, Robin Walters, Robert Platt, Under Review [paper](https://arxiv.org/pdf/2211.00191.pdf)
+26. **SEIL: Simulation-augmented Equivariant Imitation Learning**
+Mingxi Jia, Dian Wang, Guanang Su, David Klee, Xupeng Zhu, Robin Walters, Robert Platt, Under Review [paper](https://arxiv.org/pdf/2211.00194.pdf)
+27. **The Surprising Effectiveness of Equivariant Models in Domains with Latent Symmetry**
+Dian Wang, Jung Yeon Park, Neel Sortur, Lawson L.S. Wong, Robin Walters, Robert Platt, Under Review [paper](https://arxiv.org/pdf/2211.09231.pdf)
 
 ### [Permutation Equivariance](#content)
 https://www.mitchel.computer/doc/thesis.pdf
