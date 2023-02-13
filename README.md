@@ -191,7 +191,9 @@ Hannah Lawrence, Kristian Georgiev, Andrew Dienes, Bobak T. Kiani ICML 2022 [pap
 8. **Temperature-steerable flows**    
   Manuel Dibak, Leon Klein, Frank Noé NeurIPS 2020 ML4Phys workshops [paper](https://arxiv.org/abs/2012.00429)  
   Note: normalizing flows in phase space with equivariance with respect to changes in temperature.
-
+9. **Equivariant Manifold Flows**  
+  Isay Katsman, Aaron Lou, Derek Lim, Qingxuan Jiang, Ser-Nam Lim, Christopher De Sa NeurIPS 2021 [paper](https://arxiv.org/pdf/2107.08596.pdf)
+  Note: normalizing flows that allow for learning over any Riemannian manifold with respect to any symmetry (isometry subgroup action invariance).
 
 ### [Application](#content)
 1. **Trajectory Prediction using Equivariant Continuous Convolution**  
