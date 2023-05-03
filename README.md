@@ -164,6 +164,9 @@ Bryn Elesedy, Sheheryar Zaidi ICML 2021 [paper](https://arxiv.org/abs/2102.10333
 10. **Implicit Bias of Linear Equivariant Networks**  
 Hannah Lawrence, Kristian Georgiev, Andrew Dienes, Bobak T. Kiani ICML 2022 [paper](https://arxiv.org/abs/2110.06084)
 
+11. **On the Expressive Power of Geometric Graph Neural Networks**  
+Chaitanya K. Joshi, Cristian Bodnar, Simon V. Mathis, Taco Cohen, Pietro Liò ICML 2023 [paper](https://arxiv.org/abs/2301.09308)
+
 
 ### [Equivariant Density Estimation and Sampling](#content)
 
