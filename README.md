@@ -113,23 +113,26 @@ Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pd
    Thomas W. Mitchel, Vladimir G. Kim, Michael Kazhdan ICCV 2021 (Oral) [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Mitchel_Field_Convolutions_for_Surface_CNNs_ICCV_2021_paper.html)   
 37. **Scalars are universal: Equivariant machine learning, structured like classical physics**  
    Soledad Villar, David W.Hogg, Kate Storey-Fisher, Weichi Yao, Ben Blum-Smith NeruIPS 2021 [paper](https://arxiv.org/abs/2106.06610)
-38. **GemNet: Universal Directional Graph Neural Networks for Molecules**  
+38. **Efficient Equivariant Network**  
+   Lingshen He, Yuxuan Chen, Zhengyang shen, Yiming Dong, Yisen Wang, Zhouchen Lin NeruIPS 2021 [paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/2a79ea27c279e471f4d180b08d62b00a-Abstract.html), [code](https://github.com/LingshenHe/Efficient-Equivariant-Network)
+39. **GemNet: Universal Directional Graph Neural Networks for Molecules**  
    Johannes Klicpera, Florian Becker, Stephan Günnemann NeurIPS 2021 [paper](https://proceedings.neurips.cc/paper/2021/hash/35cf8659cfcb13224cbd47863a34fc58-Abstract.html)
-39. **Automatic Symmetry Discovery with Lie Algebra Convolutional Network**  
+40. **Automatic Symmetry Discovery with Lie Algebra Convolutional Network**  
    Nima Dehmamy, Robin Walters, Yanchen Liu, Dashun Wang, Rose Yu NeurIPS 2021 [paper](https://openreview.net/pdf?id=NPOWF_ZLfC5)
-40. **Geometric and Physical Quantities improve E(3) Equivariant Message Passing**  
+41. **Geometric and Physical Quantities improve E(3) Equivariant Message Passing**  
    Johannes Brandstetter and Rob Hesselink and Elise van der Pol and Erik J Bekkers and Max Welling ICLR 2022 (spotlight) [paper](https://arxiv.org/abs/2110.02905), [code](https://github.com/RobDHess/Steerable-E3-GNN)
-41. **Frame Averaging for Invariant and Equivariant Network Design**  
+42. **Frame Averaging for Invariant and Equivariant Network Design**  
    Omri Puny, Matan Atzmon, Heli Ben-Hamu, Ishan Misra, Aditya Grover, Edward J. Smith, Yaron Lipman [paper](https://arxiv.org/abs/2110.03336) ICLR 2022
-42. **Learning Local Equivariant Representations for Large-Scale Atomistic Dynamics**
+43. **Learning Local Equivariant Representations for Large-Scale Atomistic Dynamics**
    Albert Musaelian, Simon Batzner, Anders Johansson, Lixin Sun, Cameron J. Owen, Mordechai Kornbluth, Boris Kozinsky [paper](https://arxiv.org/abs/2204.05249) 
-43. **Möbius Convolutions for Spherical CNNs**  
+44. **Möbius Convolutions for Spherical CNNs**  
    Thomas W. Mitchel, Noam Aigerman, Vladimir G. Kim, Michael Kazhdan SIGGRAPH 2022 [paper](https://arxiv.org/abs/2201.12212)  
    (Note: Equivariance to the action of SL(2, C) on the sphere. To our knowledge this is the first *conformally* equivariant convolutional surface network)
-44. **DeltaConv: Anisotropic Operators for Geometric Deep Learning on Point Clouds**
+45. **DeltaConv: Anisotropic Operators for Geometric Deep Learning on Point Clouds**
    Ruben Wiersma, Ahmad Nasikun, Elmar Eisemann, Klaus Hildebrandt SIGGRAPH 2022 [paper](https://arxiv.org/abs/2111.08799), [code](https://github.com/rubenwiersma/deltaconv)
    Rotation equivariance by using differential operators.
-
+46. **Neural ePDOs: Spatially Adaptive Equivariant Partial Differential Operator Based Networks**  
+ Lingshen He*, Yuxuan Chen*, Zhengyang shen, Yibo Yang, Zhouchen Lin  ICLR 2023 (spotlight) [paper](https://openreview.net/forum?id=D1Iqfm7WTkk), [code](https://github.com/YuxuanChen21/Neural_ePDOs)
 
 ### [Theory](#content)
 
