@@ -256,7 +256,6 @@ Mingxi Jia, Dian Wang, Guanang Su, David Klee, Xupeng Zhu, Robin Walters, Robert
 Dian Wang, Jung Yeon Park, Neel Sortur, Lawson L.S. Wong, Robin Walters, Robert Platt, Under Review [paper](https://arxiv.org/pdf/2211.09231.pdf)
 
 ### [Permutation Equivariance](#content)
-https://www.mitchel.computer/doc/thesis.pdf
 There are many paper on this topics. I only added very few of them.
 
 1. **PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation**  
