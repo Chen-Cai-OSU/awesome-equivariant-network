@@ -256,6 +256,10 @@ Haojie Huang, Dian Wang, Xupeng Zhu, Robin Walters, Robert Platt, Under Review [
 Mingxi Jia, Dian Wang, Guanang Su, David Klee, Xupeng Zhu, Robin Walters, Robert Platt, Under Review [paper](https://arxiv.org/pdf/2211.00194.pdf)
 27. **The Surprising Effectiveness of Equivariant Models in Domains with Latent Symmetry**
 Dian Wang, Jung Yeon Park, Neel Sortur, Lawson L.S. Wong, Robin Walters, Robert Platt, Under Review [paper](https://arxiv.org/pdf/2211.09231.pdf)
+28. **Equivariant Descriptor Fields: SE(3)-Equivariant Energy-Based Models for End-to-End Visual Robotic Manipulation Learning**  
+Hyunwoo Ryu, Hong-in Lee, Jeong-Hoon Lee, Jongeun Choi, ICLR 2023 [paper](https://arxiv.org/pdf/2206.08321.pdf)
+29. **Diffusion-EDFs: Bi-equivariant Denoising Generative Modeling on SE(3) for Visual Robotic Manipulation**  
+Hyunwoo Ryu, Jiwoo Kim, Hyunseok An, Junwoo Chang, Joohwan Seo, Taehan Kim, Yubin Kim, Chaewon Hwang, Jongeun Choi, Roberto Horowitz, Under Review [paper](https://arxiv.org/pdf/2309.02685.pdf)   
 
 ### [Permutation Equivariance](#content)
 There are many paper on this topics. I only added very few of them.
