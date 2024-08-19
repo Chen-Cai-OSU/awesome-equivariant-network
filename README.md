@@ -133,6 +133,12 @@ Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pd
    Rotation equivariance by using differential operators.
 46. **Neural ePDOs: Spatially Adaptive Equivariant Partial Differential Operator Based Networks**  
  Lingshen He*, Yuxuan Chen*, Zhengyang shen, Yibo Yang, Zhouchen Lin  ICLR 2023 (spotlight) [paper](https://openreview.net/forum?id=D1Iqfm7WTkk), [code](https://github.com/YuxuanChen21/Neural_ePDOs)
+47. **Steerable Partial Differential Operators for Equivariant Neural Networks**
+Erik Jenner, Maurice Weiler ICLR 2022 [paper](https://arxiv.org/abs/2106.10163)
+48. **A Program to build E(N)-Equivariant Steerable CNNs**
+Gabriele Cesa, Leon Lang, Maurice Weiler ICLR 2022 [paper](https://openreview.net/pdf?id=WE4qe9xlnQw)
+49. **Clifford-Steerable Convolutional Neural Networks**
+Maksim Zhdanov, David Ruhe, Maurice Weiler, Ana Lucic, Johannes Brandstetter, Patrick Forré ICML 2024 [paper](https://arxiv.org/abs/2402.14730)
 
 ### [Theory](#content)
 
@@ -169,6 +175,9 @@ Hannah Lawrence, Kristian Georgiev, Andrew Dienes, Bobak T. Kiani ICML 2022 [pap
 
 11. **On the Expressive Power of Geometric Graph Neural Networks**  
 Chaitanya K. Joshi, Cristian Bodnar, Simon V. Mathis, Taco Cohen, Pietro Liò ICML 2023 [paper](https://arxiv.org/abs/2301.09308)
+
+12. **Equivariant and Coordinate Independent Convolutional Networks - A Gauge Field Theory of Neural Networks**
+Maurice Weiler ,  Patrick Forré ,  Erik Verlinde ,  Max Welling [book](https://maurice-weiler.gitlab.io/cnn_book/EquivariantAndCoordinateIndependentCNNs.pdf)
 
 
 ### [Equivariant Density Estimation and Sampling](#content)
